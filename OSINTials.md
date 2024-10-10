@@ -2,7 +2,7 @@
 ![finalbox](https://github.com/user-attachments/assets/dfe6fbc7-dabe-48e3-b223-6c8bf3082f4b)
 
 
-An OSINT toolkit that prioritize quality over quantity. The tools in this kit are 99% free, with a few exceptions (like facial recognition).
+An OSINT toolkit that prioritize quality over quantity. The tools in this kit are 99% free, with a few exceptions. These tools have been collected from various places/toolkits and are pieced together with quality being a top priority.
 
 ## Contents
 ### 🧑 [People Search](#people-search)
@@ -77,9 +77,9 @@ An OSINT toolkit that prioritize quality over quantity. The tools in this kit ar
 - [Validnumber](https://validnumber.com/)
 #### Identify Phone Number Carrier
 - [Free Carrier Lookup](https://Freecarrierlookup.com)
-- [Carrier Lookup](carrierlookup.com)
+- [Carrier Lookup](https://carrierlookup.com)
 #### Other
-- [Sly Dial](slydial.com)/267-759-3425 *- Listen To Target Numbers' Voicemail Without calling (majority of time phone does not ring, small chance of phone ringing, do not use if concerned of alerting phone owner)*
+- [Sly Dial](http://slydial.com)/267-759-3425 *- Listen To Target Numbers' Voicemail Without calling (majority of time phone does not ring, small chance of phone ringing, do not use if concerned of alerting phone owner)*
 - [Swappa](https://swappa.com) *- IMEI Information*
 - [Country Code](https://countrycode.org/) *- World Area Code Listing*
 
@@ -157,7 +157,7 @@ An OSINT toolkit that prioritize quality over quantity. The tools in this kit ar
 - [Jail Base](https://www.jailbase.com)
 - [Busted Newspaper](https://bustednewspaper.com)
 - [Mugshots Zone](https://mugshots.zone)
-- [VineLink](vinelink.com)
+- [VineLink](https://vinelink.com)
 #### US Inmate Lookup
 - [Federal BOP Inmate Lookup](https://www.justice.gov/action-center/locate-pr)
 - [State Inmate lookup](https://www.blackbookonline.info/USA-Inmates.aspx)
@@ -264,8 +264,7 @@ An OSINT toolkit that prioritize quality over quantity. The tools in this kit ar
 - [Neural Love](https://neural.love) *- Image Enhancement*
 #### Other
 - [Google Translate](https://translate.google.com) *- Use To Identify And Translate Text In Images*
-#### Video Downloader
---------------------
+#### Video
 - [Video Downloader](https://github.com/Unrud/video-downloader)
 
 [↑ Back To Top](#contents)
@@ -326,12 +325,12 @@ An OSINT toolkit that prioritize quality over quantity. The tools in this kit ar
 - [Cloudflare Radar](https://radar.cloudflare.com/scan) *- URL Scanning*
 - [URLscan.io](https://urlscan.io/) *- URL Scanning*
 - [Redirect Detective](https://redirectdetective.com/index.html) *- URL Mapping*
-- [UNFURL](dfir.blog/unfurl/) *- URL Mapping*
-- [Check Short URL](checkshorturl.com) *- Short URL Info*
+- [UNFURL](https://dfir.blog/unfurl/) *- URL Mapping*
+- [Check Short URL](https://checkshorturl.com) *- Short URL Info*
 #### Domain Lookup
 - [ViewDNS](https://viewdns.info)
 - [Domain Tools](https://Whois.domaintools.com)
-- [Threat Intelligence Platform](threatintelligenceplatform.com)
+- [Threat Intelligence Platform](https://threatintelligenceplatform.com)
 - [Whoisology](https://Whoisology.com)
 #### Historical Domain Registration
 - [Whoxy](https://whoxy.com)
@@ -343,9 +342,9 @@ An OSINT toolkit that prioritize quality over quantity. The tools in this kit ar
 - [Spy On Web](https://spyonweb.com)
 - [Analyze ID](https://analyzeid.com)
 - [Built With](https://builtwith.com)
-- [DNSLytics](dnslytics.com/reverse-analytics)
+- [DNSLytics](https://dnslytics.com/reverse-analytics)
 #### Historical Domain Analytic IDs
-- [Hacker Target] - https://hackertarget.com/reverse-analytics-search - Find Historic Analytics IDs Used For A Domain
+- [Hacker Target](https://hackertarget.com/reverse-analytics-search) *- Find Historic Analytics IDs Used For A Domain*
 #### SSL Certificates
 - [CRT.sh](https://crt.sh) *- SSL Certificates Lookup*
 #### Backlinks
