@@ -1,6 +1,8 @@
 # The Dump
 This is the unorganized master lists OSINT tool dump. These are master lists of other repositories, start.me(s), and toolkits found throughout the wild wild web. The list was originally started from "Pedohunters & Ghoul Squad" on r/osint and I have added (and will continue to add) to it over time. **WARNING** Not all of these lists are vetted, please use proper precaution when going through these lists.
-*"You can't find the right tool in this garage, Mr. Arizona, you don't belong near a car."*
+
+--------------
+*"If you can't find the right tool in this garage, Mr. Arizona, you don't belong near a car."*
 
 --------------
 https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources
