@@ -1,5 +1,5 @@
 # The OSINT Essentials (OSINTIALS)
-These are my preferred and most used (free) tools that I believe prioritize quality over quantity, happy hunting!
+An OSINT toolkit that prioritize quality over quantity. The tools in this kit are 99% free, with a few exceptions (like facial recognition).
 
 ## Contents
 ### 🧑 [People Search](#people-search)
