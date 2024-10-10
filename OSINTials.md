@@ -15,16 +15,16 @@ These are my preferred and most used (free) tools that I believe prioritize qual
 ### 📈 [Businesses and NonProfits](#businesses-and-nonprofits)
 ### 🔎 [Search Engines](#search-engines)
 ### 🗺️ [Maps and Geolocation Identifiers](#maps-and-geolocation-identifiers)
-### 📷 Image and Video
-### 🤡 Social Media
-### 🪪 Credential Breaches
-### 👻 Tor (Darknet)
-### 🖥️ Domains
-### 🔢 IP/MAC Addresses
-### 📻 Radio Frequency Databases
-### 🗂️ Exif and Metadata
-### ✈️ Transportation
-### 📹 Webcams
+### 📷 [Image and Video](#image-search)
+### 🤡 [Social Media](#social-media)
+### 🪪 [Credential Breaches](#credential-breaches)
+### 👻 [Tor Hidden Services](#tor-hidden-services)
+### 🖥️ [Domains](#domains)
+### 🔢 [IP and MAC Addresses](#ip-and-mac-addresses)
+### 📻 [Radio Frequency Databases](#radio-frequency-databases)
+### 🗂️ [Exif and Metadata](exif-and-metadata)
+### ✈️ [Transportation](#transportation)
+### 📹 [Webcams](#webcams)
 
 ## People Search
 #### General People Search
@@ -182,7 +182,6 @@ These are my preferred and most used (free) tools that I believe prioritize qual
 
 ## Donations
 - [Open Secrets](https://Opensecrets.org) *- Search What Campaigns An Individual Has Donated To*
-
 - [FEC Donations](https://www.fec.gov/introduction-campaign-finance/how-to-research-public-records/individual-contributions/) *- US Federal Election Commission Campaign Donations*
 
 [↑ Back To Top](#contents)
@@ -230,9 +229,9 @@ These are my preferred and most used (free) tools that I believe prioritize qual
 - [Yandex Maps](https://yandex.com/maps/)
 - [Map Quest](https://www.mapquest.com)
 - [Open Street Map](https://openstreetmap.org)
-- [Bellingcat OSM Serach](https://osm-search.bellingcat.com/) *- Geolocation Based On Inputting The Description Of An Image*
 #### Geolocation Identifiers
 - [Geospy](https://geospy.ai) *- Uses AI To Attempt To Geolocate An Image*
+- [Bellingcat OSM Serach](https://osm-search.bellingcat.com/) *- Geolocation Based On Inputting The Description Of An Image*
 - [Geohints](https://geohints.com/) *- Geolocation Identifiers Master List*
 - [Geomastr](https://geomastr.com/) *- Geolocation Identifiers Master List*
 - [IEC](https://www.iec.ch/world-plugs) *- World List Of Electrical Outlets*
@@ -240,5 +239,197 @@ These are my preferred and most used (free) tools that I believe prioritize qual
 - [Plant Net](https://identify.plantnet.org/) *- Identify Plants In Images And See Where They Are Native To*
 - [Sun Earth Tools](https://www.sunearthtools.com/dp/tools/pos_sun.php) *- Identify Time And Date By Sun/Shadow Position*
 - [Shade Map](https://shademap.app/) *- Identify Time And Date By Sun/Shadow Position*
+
+[↑ Back To Top](#contents)
+
+## Image and Video
+#### Image Search
+- [Google Images](https://images.google.com)
+- [Bing Images](https://bing.com/images)
+- [Yandex Images](https://yandex.com/images/)
+- [Shutterstock](https://www.shutterstock.com)
+- [Alamy](https://www.alamy.com/)
+- [Tineye](https://tineye.com)
+#### Facial Recognition and Comparison
+- [Face Comparison](https://facecomparison.toolpie.com/) *- Compare Two Images To See If They Are The Same Person*
+- [Facecheck](https://facecheck.id) *- Facial Recognition*
+- [Pimeyes](https://pimeyes.com) *- Facial Recognition*
+- [Search4Faces](https://www.search4faces.com/en/) *- Facial Recognition*
+#### Image Editing
+- [Remove.bg](https://remove.bg) *- Removes The Background Of An Image*
+- [Cleaup.Pictures](https://cleanup.pictures) *- Removes Objects From An Image*
+- [Neural Love](https://neural.love) *- Image Enhancement*
+#### Other
+- [Google Translate](https://translate.google.com) *- Use To Identify And Translate Text In Images*
+#### Video Downloader
+--------------------
+- [Video Downloader](https://github.com/Unrud/video-downloader)
+
+[↑ Back To Top](#contents)
+
+## Social Media
+- [Instagram](https://instagram.com)
+	- [Insta Stories Viewer](https://insta-stories-viewer.com) *- View Instagram Profiles*
+	- [Inflact](https://inflact.com/tools/profile-analyzer/) *- View Instagram Profiles And Analytics*
+	- [ImgInn](https://imginn.com) *- View Instagram Profiles*
+	- [Picuki](https://www.picuki.com/) *- View Instagram Profiles*
+- [Facebook](https://facebook.com)
+- [Twitter (X)](https://twitter.com)
+- [Pinterest](https://pinterest.com)
+- [Tumblr](https://tumblr.com)
+- [Patreon](https://www.patreon.com/)
+	- [Graphtreon](https://graphtreon.com/) *- Patreon Analytics*
+- [TikTok](https://tiktok.com)
+	- [TikTok Live](https://tiktok.com/live)
+- [Reddit](https://reddit.com)
+- [Youtube](https://youtube.com)
+	- [Anilyzer](https://anilyzer.com) *- View Youtube Videos Frame By Frame*
+	- [MW Geofind](https://mattw.io/youtube-geofind/location) *- View Youtube Videos By Location*
+	- [MW Metadata](https://mattw.io/youtube-metadata/) *- View Youtube Metadata*
+	- [Channel Crawler](https://channelcrawler.com) *- Find Youtube Channels By Filters*
+	- [Youtube Live](https://Youtube.com/live)
+- [Twitch](https://Twitch.tv)
+- [Snapchat](https://www.snapchat.com/)
+	- [Snapchat Map](https://Map.snapchat.com) *- Lookup Snapchat Stories By Location*
+- [Link Tree](https://linktr.ee) *- Use With Google Dorks*
+- [Social Searcher](https://Social-searcher.com) *- Lookup Social Media By Posts That Mention Target*
+- [Social Blade](https://socialblade.com/) *- Social Media Profile Analytics*
+
+[↑ Back To Top](#contents)
+
+## Credential Breaches
+- [Breach Directory](https://breachdirectory.org)
+- [Dehashed](https://dehashed.com)
+- [BreachBase](https://breachbase.com)
+- [Leakcheck](https://leakcheck.net)
+- [IntelX](https://intelx.io)
+- [Leak-Lookup](https://leak-lookup.com)
+- [HackCheck](https://hackcheck.io)
+- [LeakPeek](https://leakpeek.com)
+- [Have I Been Pwned](https://Haveibeenpwned.com)
+- [Have I Been Zuckered](https://haveibeenzuckered.com) *- Search Phonenumber To See If it Was in 2019 Facebook Data Breach*
+- [Illicit Services](https://search.illicit.services/) *- Currently Down*
+- [Breach Parse](https://github.com/hmaverickadams/breach-parse) - Data Breach Parsing Tool
+
+[↑ Back To Top](#contents)
+
+## Tor Hidden Services
+
+[↑ Back To Top](#contents)
+
+## Domains
+#### URL Scanning
+- [VirusTotal](https://virustotal.com) *- URL Scanning*
+- [Cloudflare Radar](https://radar.cloudflare.com/scan) *- URL Scanning*
+- [URLscan.io](https://urlscan.io/) *- URL Scanning*
+- [Redirect Detective](https://redirectdetective.com/index.html) *- URL Mapping*
+- [UNFURL](dfir.blog/unfurl/) *- URL Mapping*
+- [Check Short URL](checkshorturl.com) *- Short URL Info*
+#### Domain Lookup
+- [ViewDNS](https://viewdns.info)
+- [Domain Tools](https://Whois.domaintools.com)
+- [Threat Intelligence Platform](threatintelligenceplatform.com)
+- [Whoisology](https://Whoisology.com)
+#### Historical Domain Registration
+- [Whoxy](https://whoxy.com)
+- [Whois History](https://whois-history.whoisxmlapi.com)
+#### Automated Domain Changes Notifications
+- [Follow That Page](https://followthatpage.com) *- Sends Email Notifications When Webpages Change*
+- [Visual Ping](https://visualping.io) *- Sends Email Notifications When Webpages Change*
+#### Domain Analytic IDs
+- [Spy On Web](https://spyonweb.com)
+- [Analyze ID](https://analyzeid.com)
+- [Built With](https://builtwith.com)
+- [DNSLytics](dnslytics.com/reverse-analytics)
+#### Historical Domain Analytic IDs
+- [Hacker Target] - https://hackertarget.com/reverse-analytics-search - Find Historic Analytics IDs Used For A Domain
+#### SSL Certificates
+- [CRT.sh](https://crt.sh) *- SSL Certificates Lookup*
+#### Backlinks
+- [smallSEOtools](https://smallseotools.com/backlink-checker) *- View Domains That Post Links To Your Target Domain*
+- [Host.io](https://host.io) *- View Domains That Post Links To Your Target Domain*
+#### Internal Link Scanning
+- [Hacker Target Extract-Links](https://hackertarget.com/extract-links) *- Find Links That Are Listed Inside Of A Target Domain*
+#### CLI Tools
+- [theHarvester](https://github.com/laramies/theHarvester) *- Gather Subdomains, Emails, And IP Addresses Of Target Websites*
+- [Sublist3r](https://github.com/aboul3la/Sublist3r) *- Gather Subdomains Of Target Websites*
+- [Photon](https://github.com/s0md3v/Photon) *- Gather Information From Target Websites*
+- [Metagoofil](https://github.com/opsdisk/metagoofil) *- Discover Documents Listed On Target Websites*
+- [Spiderfoot](https://github.com/smicallef/spiderfoot) *- Gather Information From Target Websites*
+- [httrack](https://github.com/xroche/httrack) *- Mirror A Website Locally*
+
+[↑ Back To Top](#contents)
+
+## IP and MAC Addresses
+#### IP Address Lookup
+- [IP Lookup](https://Ip-lookup.org) *- IP Address Lookup (Shows If A Proxy, VPN, OR Tor Is Being Used)*
+- [IP Location](https://Iplocation.net) *- IP Address Lookup*
+- [That's Them](https://thatsthem.com/reverse-ip-lookup) *- IP Address Lookup*
+- [Abuse IPDB](https://www.abuseipdb.com) *- Malicious IP Address Lookup*
+#### IP Loggers
+- [Canary Tokens](https://Canarytokens.org) *- IP Logger*
+- [Grabify](https://grabify.link) *- IP Logger*
+- [IPlogger.org](https://iplogger.org) *- IP Logger*
+- [Get Notify](https://getnotify.com) *- IP Logger Sent Through Email That Also Shows If An Email Was Opened, For How Long, And If Deleted*
+#### Tor Relays
+- [Tor Project](https://metrics.torproject.org/rs.html#search) *- Look Up Information About Tor Relays*
+- [Tor Project](https://metrics.torproject.org/exonerator.html) *- Search An IP Address To See If It Was Ever Used As A Tor Relay*
+#### Others
+- [I Know What You Download](https://iknowwhatyoudownload.com) *- IP Address Lookup That Shows What Torrents An IP Address Has Downloaded*
+####MAC Addresses
+- [Wigle](https://www.wigle.net) *- Wireless Network Map*
+- [Maclookup](https://maclookup.app/search) *- MAC Address Lookup*
+- [Dnschecker](https://dnschecker.org/mac-lookup.php) *- MAC Address Lookup*
+
+[↑ Back To Top](#contents)
+
+## Radio Frequency Databases
+- [Radio Reference](https://www.radioreference.com) *- Radio Frequency Database*
+- [Radio Locator](https://radio-locator.com/) *- Radio Station Frequency Database*
+- [FCC ID Database](https://fccid.io/) *- Radio FCC ID Database*
+- [Broadcastify](https://www.broadcastify.com/) *- Live Radio Traffic (including police and fire)*
+
+
+[↑ Back To Top](#contents)
+
+## EXIF and Metadata
+#### EXIF Data
+- [ImgOps](https://imgops.com)
+- [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)
+#### Metadata
+- [Extract Metadata](https://Extractmetadata.com)
+- [Exif Info](https://Exifinfo.org)
+#### Barcode Scanner
+- [Online Decoder](https://Online-barcode-reader.com)
+- [Online Barcode](https://Onlinebarcodereader.com)
+- [Online Barcode Reader](https://Online-barcode-reader.inliteresearch.com)
+
+[↑ Back To Top](#contents)
+
+## Transportation
+#### Vehicles
+- [Epic VIN](https://epicvin.com) *- VIN/LP Lookup*
+- [Vin Check](https://vincheck.inf) *- VIN Lookup*
+- [VIN Gurus](https://vingurus.com) *- VIN Lookup*
+#### Flight
+- [Flight Radar 24](https://www.flightradar24.com/) *- Live Flight Tracking*
+- [Flightaware](https://www.flightaware.com/live/) *- Live Flight Tracking*
+#### Maritime
+- [Vessel Finder](https://www.vesselfinder.com) *- Live Maritime Tracking*
+- [Vessel Tracker](https://www.vesseltracker.com) *- Live Maritime Tracking*
+- [Marine Traffic](https://marinetraffic.com) *- Live Maritime Tracking*
+#### Railway
+- [geOps](https://mobility.portal.geops.io) *- Live Railway Tracking*
+- [Open Railway Map](https://www.openrailwaymap.org) *- Railway Map
+Cargo and Shipping Tracking*
+#### Other
+- [Track-Trace](https://www.track-trace.com) *- Cargo And Shipping Tracking*
+
+[↑ Back To Top](#contents)
+
+## Webcams
+- [CamScape](https://www.camscape.com) *- Live Webcam Monitoring*
+- [WorldCam](https://worldcam.eu) *- Live Webcam Monitoring*
+- [EarthCam](https://www.earthcam.com) *- Live Webcam Monitoring*
 
 [↑ Back To Top](#contents)
