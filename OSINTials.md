@@ -22,7 +22,7 @@ An OSINT toolkit that prioritize quality over quantity. The tools in this kit ar
 ### 🖥️ [Domains](#domains)
 ### 🔢 [IP and MAC Addresses](#ip-and-mac-addresses)
 ### 📻 [Radio Frequency Databases](#radio-frequency-databases)
-### 🗂️ [Exif and Metadata](exif-and-metadata)
+### 🗂️ [Exif and Metadata](#exif-and-metadata)
 ### ✈️ [Transportation](#transportation)
 ### 📹 [Webcams](#webcams)
 
