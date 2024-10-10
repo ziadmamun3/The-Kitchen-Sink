@@ -1,2 +1,2 @@
 # The Kitchen Sink
-Welcome to The Kitchen Sink! Your one stop shop for all things OSINT. What is Open Source Intelligence you ask? Well, if you have to ask that, you shouldn't be here, LOL. Kidding; it's like Googling with extra steps.
+![sink](https://github.com/user-attachments/assets/b1a2cdef-30d9-477a-815c-39be617fa7f7)
