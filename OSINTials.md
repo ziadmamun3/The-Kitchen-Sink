@@ -1,5 +1,6 @@
 # The OSINT Essentials (OSINTIALS)
-![essentials](https://github.com/user-attachments/assets/63fcaa88-987f-4dcf-8e0a-30169bc38d49)
+![essentials2](https://github.com/user-attachments/assets/0adeeab2-4c5f-4f3a-915a-88e0fdd2fb95)
+
 
 An OSINT toolkit that prioritize quality over quantity. The tools in this kit are 99% free, with a few exceptions (like facial recognition).
 
