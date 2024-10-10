@@ -13,8 +13,8 @@ These are my preferred and most used (free) tools that I believe prioritize qual
 ### 🏛️ [Court and Government Records](#court-and-government-records)
 ### 💰 [Donations](#donations)
 ### 📈 [Businesses and NonProfits](#businesses-and-nonprofits)
-### 🔎 Search Engines
-### 🗺️ Maps and Geolocation Identifiers
+### 🔎 [Search Engines](#search-engines)
+### 🗺️ [Maps and Geolocation Identifiers](#maps-and-geolocation-identifiers)
 ### 📷 Image and Video
 ### 🤡 Social Media
 ### 🪪 Credential Breaches
@@ -122,7 +122,7 @@ These are my preferred and most used (free) tools that I believe prioritize qual
 ## Property Information
 #### US Appraisal/Assesor/Tax Property Lookup
 - [US Appraisal District Link Directory](https://www.blackbookonline.info/USA-Property.aspx)
-- [Us Assesor and Property Tax Records](https://www.publicrecords.onlinesearches.com/Assesor-and-Property-Tax-Records.htm)
+- [US Assesor and Property Tax Records](https://www.publicrecords.onlinesearches.com/Assesor-and-Property-Tax-Records.htm)
 - [BlackBookOnline Asset Locator](https://Www.blackbookonline.info/assetsearch.aspx)
 #### Home Realtor Search
 - [Homemetry](https://homemetry.com/)
@@ -198,5 +198,47 @@ These are my preferred and most used (free) tools that I believe prioritize qual
 #### Non-Profit/Charity Tax Records
 - [IRS.gov](https://www.irs.gov/charities-non-profits/tax-exempt-organization-search)
 - [Pro Publica](https://projects.propublica.org/nonprofits/)
+
+[↑ Back To Top](#contents)
+
+## Search Engines
+- [Google](https://google.com)
+	- [Google (advanced search)](https://Google.com/advanced_search)
+	- [Google Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)
+	- [Dork Genius](https://dorkgenius.com) *- AI Tool That Creates Google Dork Syntax Based On Text Input*
+	- [File Type Extensions List](https://en.wikipedia.org/wiki/List_of_file_formats) *- Use To Find Correct File Type Extension For Google Dorking*
+	- [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+- [Bing](https://bing.com)
+	- [Bing Dorks Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet/)
+- [Yandex](https://yandex.com)
+- [DuckDuckGo](https://duckduckgo.com)
+- [Qwant](https://qwant.com)
+- [Yahoo](https://yahoo.com)
+	- [Yahoo (advanced search)](https://search.yahoo.com/web/advanced)
+- [Brave](https://search.brave.com)
+- [Wayback Machine](https://archive.org)
+- [Master Dork List](https://github.com/cipher387/Dorks-collections-list)
+
+[↑ Back To Top](#contents)
+
+## Maps and Geolocation Identifiers
+#### Maps
+- [Google Maps](https://maps.google.com)
+	- [Instant Street View](https://instantstreetview.com) *- Snap To Google Street View*
+	- [Google Earth](https://earth.google.com/)
+- [Bing Maps](https://www.bing.com/maps)
+- [Yandex Maps](https://yandex.com/maps/)
+- [Map Quest](https://www.mapquest.com)
+- [Open Street Map](https://openstreetmap.org)
+- [Bellingcat OSM Serach](https://osm-search.bellingcat.com/) *- Geolocation Based On Inputting The Description Of An Image*
+#### Geolocation Identifiers
+- [Geospy](https://geospy.ai) *- Uses AI To Attempt To Geolocate An Image*
+- [Geohints](https://geohints.com/) *- Geolocation Identifiers Master List*
+- [Geomastr](https://geomastr.com/) *- Geolocation Identifiers Master List*
+- [IEC](https://www.iec.ch/world-plugs) *- World List Of Electrical Outlets*
+- [Flagpedia](https://flagpedia.net/index) *- World List Of Country Flags*
+- [Plant Net](https://identify.plantnet.org/) *- Identify Plants In Images And See Where They Are Native To*
+- [Sun Earth Tools](https://www.sunearthtools.com/dp/tools/pos_sun.php) *- Identify Time And Date By Sun/Shadow Position*
+- [Shade Map](https://shademap.app/) *- Identify Time And Date By Sun/Shadow Position*
 
 [↑ Back To Top](#contents)
