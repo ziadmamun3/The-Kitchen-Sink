@@ -1,5 +1,5 @@
 # The Dump
-This is the unorganized masterlists OSINT tool dump. These are master lists of other repositories, start.me(s), and toolkits found throughout the wild wild web. The list was originally started from "Pedohunters & Ghoul Squad" on r/osint and I have added (and will continue to add) to it over time. **WARNING** Not all of these lists are vetted, please use proper precaution when going through these lists.
+This is the unorganized master lists OSINT tool dump. These are master lists of other repositories, start.me(s), and toolkits found throughout the wild wild web. The list was originally started from "Pedohunters & Ghoul Squad" on r/osint and I have added (and will continue to add) to it over time. **WARNING** Not all of these lists are vetted, please use proper precaution when going through these lists.
 *"You can't find the right tool in this garage, Mr. Arizona, you don't belong near a car."*
 
 --------------
@@ -140,8 +140,6 @@ https://start.me/p/dl7q50/fusion-intelligence
 https://start.me/p/8y52v0/tools-list
 
 https://start.me/p/wMoArN/using-your-sourcing-super-powers-for-good
-
-https://start.me/p/GEbM6z/secano
 
 https://start.me/p/gyEalK/06-imint-vi-geoint
 
