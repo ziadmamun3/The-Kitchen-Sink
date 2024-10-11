@@ -316,7 +316,7 @@ An OSINT toolkit that prioritize quality over quantity. The tools in this kit ar
 [↑ Back To Top](#contents)
 
 ## Tor Hidden Services
-A note on this section, if you do not see certain directories or search engines in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters to prevent indexing egregiously degenerate content. You are responsible for verifying links to the sites you visit.
+A note on this section, if you do not see certain directories or search engines in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters to prevent indexing egregiously degenerate content. You are responsible for understanding the content of and verifying links to the sites you visit.
 ### Link Directories
 **Daunt.Link**
 - daunt.link
@@ -345,19 +345,11 @@ A note on this section, if you do not see certain directories or search engines 
 
 **Reddit**
 
-r/onions
+r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/onions/
-
-r/darknet
 - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/darknet/
-
-r/deepweb
 - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/deepweb/
-
-r/TOR
 - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/TOR/
-
-r/tails
 - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/tails/
 ### Forums
 **Dread**
