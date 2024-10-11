@@ -7,4 +7,4 @@ This is a repository of resources and tools for performing Open Source Intellige
 ## Bookmarks
 I have added bookmarks for your conveniance for both the OSINTials toolkit as well as a specific set for Tor Hidden Services resources. The OSINTials set can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTialBookmarks.html).
 
-This repo is constantly updated with new tools, information, and resources; stay a while!
+This repo is constantly updated with new tools, information, and resources, including The Kitchen Sink. Stay a while.
