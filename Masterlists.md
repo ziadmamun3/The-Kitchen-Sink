@@ -175,8 +175,6 @@ https://start.me/p/BnrMKd/01-ncso
 
 https://start.me/p/GEbBzz/access-osint
 
-https://start.me/p/p1mnkM/hackengine
-
 https://start.me/p/q6QJXo/azuleonyx-osint
 
 https://start.me/p/gyEalK/06-imint-vi-geoint
@@ -184,10 +182,6 @@ https://start.me/p/gyEalK/06-imint-vi-geoint
 https://start.me/p/0PwOGl/osint-all
 
 https://start.me/p/NxG806/ti
-
-https://start.me/p/7k48PK/jungla-osint-por-ra1000
-
-https://start.me/p/3xMXnP/monitoring
 
 https://start.me/p/1kOJ9N/16-osint-io
 
@@ -203,10 +197,6 @@ https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard
 
 https://start.me/p/lLzzg7/tomoko-discovery-osint
 
-https://start.me/p/kx462X/osint-tools-miscellaneous
-
-https://start.me/p/MEXNOe/osint-resources-master-repository
-
 https://start.me/p/q6naJo/osint-links
 
 https://start.me/p/QRQb0O/trouble-fake
@@ -214,10 +204,6 @@ https://start.me/p/QRQb0O/trouble-fake
 https://start.me/p/b5gEPe/email-osint
 
 https://start.me/p/nRvKOn/dfm-sm-osint
-
-https://start.me/p/0PGKad/darkweb
-
-https://start.me/p/Ya5DEq/deep-web
 
 https://start.me/p/X2wwpk/14-dark-web-breach-data
 
