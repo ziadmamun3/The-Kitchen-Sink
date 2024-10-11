@@ -319,64 +319,64 @@ An OSINT toolkit that prioritize quality over quantity. The tools in this kit ar
 A note on this section, if you do not see certain directories or search engines in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters to prevent indexing egregiously degenerate content. You are responsible for understanding the content of and verifying links to the sites you visit.
 ### Link Directories
 **Daunt.Link**
-- daunt.link
-- dauntdatakit2xi4usevwp3pajyppsgsrbzkfqyrp6ufsdwrnm6g5tqd.onion
+>- daunt.link
+>- dauntdatakit2xi4usevwp3pajyppsgsrbzkfqyrp6ufsdwrnm6g5tqd.onion
 
 **Tor.Taxi**
-- tor.taxi
-- tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion
+>- tor.taxi
+>- tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion
 
 **Dark.Fail**
-- dark.fail
-- darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion
+>- dark.fail
+>- darkfailenbsdla5mal2mxn2uz66od5vtzd5qozslagrfzachha3f3id.onion
 
 **TheTorTimes**
-- tortimes.com
-- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion
-- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/forums/
-- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/onions/
+>- tortimes.com
+>- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion
+>- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/forums/
+>- tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/onions/
 
 **Dark.Direct**
-- dark.direct
-- dddirectinfv3htc4vl6mied5lpaatora7mmqkcf3sfjrx37fajigmyd.onion
+>- dark.direct
+>- dddirectinfv3htc4vl6mied5lpaatora7mmqkcf3sfjrx37fajigmyd.onion
 
 **Dread /d/HiddenService**
-- dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/HiddenService
+>- dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/HiddenService
 
 **Reddit**
 
 r/onions, r/darknet, r/deepweb, r/TOR, r/tails
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/onions/
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/darknet/
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/deepweb/
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/TOR/
-- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/tails/
+>- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/onions/
+>- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/darknet/
+>- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/deepweb/
+>- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/TOR/
+>- reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/tails/
 ### Forums
 **Dread**
-- dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
-- g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
+>- dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
+>- g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
 
 **Pitch**
-- pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion
-- pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
+>- pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion
+>- pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
 ### Search Engines
 **Ahmia**
-- ahmia.fi
-- juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion
+>- ahmia.fi
+>- juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion
 
 **VormWeb**
-- vormweb.de/en/
-- volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/en/
+>- vormweb.de/en/
+>- volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/en/
 
 **Brave**
-- search.brave.com
-- search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
+>- search.brave.com
+>- search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
 
 **Recon (DNM Search Engine)**
-- recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion
+>- recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion
 
 **Dig (DNM Vendor Name Search)**
-- digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion
+>- digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion
 
 [↑ Back To Top](#contents)
 
