@@ -1,4 +1,4 @@
-# The OSINT Essentials (OSINTIALS)
+# The OSINT Essentials (OSINTials)
 ![finalbox](https://github.com/user-attachments/assets/dfe6fbc7-dabe-48e3-b223-6c8bf3082f4b)
 
 
