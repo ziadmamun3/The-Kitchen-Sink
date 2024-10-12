@@ -2,7 +2,7 @@
 ![finalbox](https://github.com/user-attachments/assets/dfe6fbc7-dabe-48e3-b223-6c8bf3082f4b)
 
 
-An OSINT toolkit that prioritizes quality over quantity. The tools in this kit are 99% free, with a few exceptions. These tools have been collected from various places/toolkits and are pieced together with quality being a top priority.
+An OSINT toolkit that prioritizes quality over quantity. The tools in this kit are 99% free, with a few exceptions. These tools have been collected from various places/toolkits and are pieced together with quality being a top priority. If you likd it, you can find the corresponding bookmarks for this toolkit [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTialBookmarks.html).
 
 ## Contents
 ### 🧑 [People Search](#people-search)
@@ -316,7 +316,7 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 [↑ Back To Top](#contents)
 
 ## Tor Hidden Services
->A note on this section, if you do not see certain directories or search engines in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters to prevent indexing egregiously degenerate content. You are responsible for understanding the content of and verifying links to the sites you visit.
+>A note on this section, if you do not see certain directories or search engines in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters to prevent indexing egregiously degenerate content. You are responsible for understanding the content of and verifying links to the sites you visit. You can find the corresponding booksmarks for this section [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/TorHiddenServicesBookmarks.html).
 ### Link Directories
 **Daunt.Link**
 - daunt.link
@@ -340,8 +340,19 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 - dark.direct
 - dddirectinfv3htc4vl6mied5lpaatora7mmqkcf3sfjrx37fajigmyd.onion
 
-**Dread /d/HiddenService**
+**Dread/d/HiddenService**
 - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/HiddenService
+
+### Forums
+**Dread**
+>This is the darknet equivalent of Reddit
+- dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
+- g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
+
+**Pitch**
+>This is the darknet equivalent of Twitter (sorta)
+- pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion
+- pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
 
 **Reddit**
 
@@ -351,14 +362,6 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/deepweb/
 - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/TOR/
 - reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion/r/tails/
-### Forums
-**Dread**
-- dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
-- g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
-
-**Pitch**
-- pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion
-- pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
 ### Search Engines
 **Ahmia**
 - ahmia.fi
@@ -372,11 +375,43 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 - search.brave.com
 - search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
 
-**Recon (DNM Search Engine)**
+**Recon**
+>A DNM search engine
 - recon222tttn4ob7ujdhbn3s4gjre7netvzybuvbq2bcqwltkiqinhad.onion
 
-**Dig (DNM Vendor Name Search)**
+**Dig**
+>A search engine for finding DNM vendors
 - digdig2nugjpszzmqe5ep2bk7lqfpdlyrkojsx2j6kzalnrqtwedr3id.onion
+### Journalism & Resources
+**Distributed Denial of Secrets**
+>A Journalist organization that archives and publishes hacked and leaked documents
+>(no onion URL available at this time)
+- ddosecrets.com
+
+**RiseUP**
+>A service hosting organization for individuals such as journalist
+- riseup.net
+- vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion
+
+**The NewYork Times**
+- nytimes.com
+- nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion
+
+**Pro Publica**
+- propublica.org
+- p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion
+
+**The Guardian**
+- theguardian.com
+- guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion
+
+TorProject
+- torproject.org
+- 2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion
+
+TorProject Forum
+- Torproject Forum
+- v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion
 
 [↑ Back To Top](#contents)
 
