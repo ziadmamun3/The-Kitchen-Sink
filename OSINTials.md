@@ -254,6 +254,7 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 |[Alamy](https://www.alamy.com/)|Image Search|
 |[Tineye](https://tineye.com)|Image Search|
 |[Face Comparison](https://facecomparison.toolpie.com/)|Compare Two Images To See If They Are The Same Person|
+|[Face Shape](https://www.faceshape.com/)|Compare Two Images To See If They Are The Same Person|
 |[Facecheck](https://facecheck.id)|Facial Recognition|
 |[Pimeyes](https://pimeyes.com)|Facial Recognition|
 |[Search4Faces](https://www.search4faces.com/en/)|Facial Recognition|
@@ -514,3 +515,18 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 ## Sock Account Creation
 |Name|Description|
 |----|-----------|
+[Fake Name Generator](https://Fakenamegenerator.com)|Generate Sock Puppet Names|
+[Fake Identity Generator](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)|Generate Sock Puppet Identities|
+[ID Creator](https://www.idcreator.com)|Generate Sock Puppet ID Cards|
+|[Fake Biography Generator](https://www.character-generator.org.uk/bio/)|Generate A Biography For Your Sock Puppet|
+|[This Resume Does Not Exist](https://thisresumedoesnotexist.com)|Generate Sock Puppet Resumes|
+|[This Person Does Not Exist](https://Thispersondoesnotexist.com)|Generate Sock Puppet Profile Pictures|
+|[This Rental Does Not Exist](https://Thisrentaldoesnotexist.com)|Generate Sock Puppet Housing Photos|
+|[Proton Mail](proton.me)|Long Term Encrypted Email Service|
+|[Simple Login](simplelogin.io)|Email Alias Forwarding Service|
+|[Temp-Mail](https://temp-mail.org/en/)|Burner Email Service|
+|[Guerrilla Mail](https://www.guerrillamail.com/)|Burner Email Service|
+|[10 Minute Mail](https://10minutemail.com/)|Burner Email Service|
+
+
+[↑ Back To Top](#contents)
