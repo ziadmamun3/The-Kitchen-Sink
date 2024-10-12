@@ -316,7 +316,7 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 [↑ Back To Top](#contents)
 
 ## Tor Hidden Services
->A note on this section, if you do not see certain directories or search engines in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters to prevent indexing egregiously degenerate content. You are responsible for understanding the content of and verifying links to the sites you visit. You can find the corresponding booksmarks for this section [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/TorHiddenServicesBookmarks.html).
+>**A NOTE ON THIS SECTION**, if you do not see certain directories, search engines, or forums in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters to prevent indexing egregiously degenerate content. You are responsible for understanding the content of and verifying links to the sites you visit. This section is not designed to be a mass spam posting of hidden services, but large social platforms, link directories, and search engines that can be helpful in finding information during OSINT investigations and research. You can find the corresponding bookmarks for this section [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/TorHiddenServicesBookmarks.html).
 ### Link Directories
 **Daunt.Link**
 - daunt.link
@@ -341,16 +341,17 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 - dddirectinfv3htc4vl6mied5lpaatora7mmqkcf3sfjrx37fajigmyd.onion
 
 **Dread/d/HiddenService**
+>A subdread for mass posting of hidden services
 - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/HiddenService
 
 ### Forums
 **Dread**
->This is the darknet equivalent of Reddit
+>This is the darknet social media platform similar to Reddit
 - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
 - g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
 
 **Pitch**
->This is the darknet equivalent of Twitter (sorta)
+>This is a darknet social media platform similar to Twitter
 - pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion
 - pitchzzzoot5i4cpsblu2d5poifsyixo5r4litxkukstre5lrbjakxid.onion
 
@@ -389,7 +390,7 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 - ddosecrets.com
 
 **RiseUP**
->A service hosting organization for individuals such as journalist
+>A service hosting organization for individuals such as journalists
 - riseup.net
 - vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion
 
@@ -405,11 +406,11 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 - theguardian.com
 - guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion
 
-TorProject
+**TorProject**
 - torproject.org
 - 2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion
 
-TorProject Forum
+**TorProject Forum**
 - Torproject Forum
 - v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion
 
