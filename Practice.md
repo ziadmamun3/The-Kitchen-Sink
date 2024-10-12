@@ -21,4 +21,4 @@ Here you will find resources for practicing Open Source Intelligence skillsets.
 |Reddit/r/geochallenges|Various Geolocation Challenges|[Challenge](https://www.reddit.com/r/geochallenges/)
 |Reddit/r/whatisthis|Identify Unknown Objects|[Challenge](https://www.reddit.com/r/Whatisthis/)
 |TraceLabs|Live CTFs For Finding Missing People|[Challenge](https://tracelabs.org)
-|HackYourMom|Various CTF Challenges|[Challenge](https://hackyourmom.com/en/kibervijna/osint-ctf-challenges/)
+|HackYourMom|Various OSINT Challenges|[Challenge](https://hackyourmom.com/en/kibervijna/osint-ctf-challenges/)
