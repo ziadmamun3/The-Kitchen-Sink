@@ -1,4 +1,6 @@
 # The Training Arena
+![arena](https://github.com/user-attachments/assets/8f1c9b76-9e29-408d-8621-fa0e3c919cc0)
+
 
 Here you will find resources for practicing Open Source Intelligence skillsets.
 
