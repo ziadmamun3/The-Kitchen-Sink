@@ -24,8 +24,6 @@ This is a collection of various OSINT masterlists.
 [NCSO]|DarkWeb OSINT Resources|[Toolkit](https://start.me/p/X2wwpk/14-dark-web-breach-data)
 |Zook|OSINT Mapping Resources|[Toolkit](https://start.me/p/8ykwnj/mappy)
 |Intel Techniques|Michael Bazzell Toolkit|[Toolkit](https://inteltechniques.com/tools/index.html)
-|Dean Da Costa|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/5vN2a0/sa-osint)
-|Dean Da Costa|General OSINT Resoruces Toolkit|[Toolkit](https://start.me/p/jjLykn/addons-tools-ext-utopia)
 |Osint|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/rxDad8/global)
 |OhSint|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/KMjgBy/sim-s-tools)
 |Sam|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/ZNLPYO/verification-tools)
