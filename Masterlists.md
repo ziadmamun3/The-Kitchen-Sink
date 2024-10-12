@@ -2,7 +2,7 @@
 
 ![thedump](https://github.com/user-attachments/assets/d4a832e8-cc73-4823-9fe1-8ccdfb3f44c0)
 
-This is the unorganized masterlists OSINT tool dump. These are masterlists of other repositories, start.me(s), and toolkits found throughout the wild wild web. The list was originally started from "Pedohunters & Ghoul Squad" on r/osint and I have added (and will continue to add) to it over time. **WARNING** Not all of these lists are vetted, please use proper precaution when going through these lists.
+This is a collection of various OSINT masterlists.
 
 --------------
 |Master List|Description|Source|
@@ -19,8 +19,9 @@ This is the unorganized masterlists OSINT tool dump. These are masterlists of ot
 |wddadk|Offensive OSINT Tools|[Toolkit](https://github.com/wddadk/Offensive-OSINT-Tools)
 |Emmanuelle Welch|OSINT For Dating and Hookup Sites|[Toolkit](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)
 |Igor Bederov|OSINT Resources For Images|[Toolkit](https://start.me/p/0PgzqO/photo-osint)
-|Igot Bederov|OSINT Resources Toolkit For Phones|[Toolkit](https://start.me/p/z4jqxM/phone-osint)
 |Sussex Global Analysis|International Security Research|[Toolkit](https://start.me/p/2pMv6d/international-security-research)
+|Anungzawmyoo|DarkWeb OSINT Resources|[Toolkit](https://start.me/p/QR6yd4/dfm-dark-web)
+[NCSO]|DarkWeb OSINT Resources|[Toolkit](https://start.me/p/X2wwpk/14-dark-web-breach-data)
 |Zook|OSINT Mapping Resources|[Toolkit](https://start.me/p/8ykwnj/mappy)
 |Intel Techniques|Michael Bazzell Toolkit|[Toolkit](https://inteltechniques.com/tools/index.html)
 |Dean Da Costa|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/5vN2a0/sa-osint)
@@ -42,60 +43,20 @@ This is the unorganized masterlists OSINT tool dump. These are masterlists of ot
 |OSINT Combine| General OSINT Resources Toolkit|[Tookit](https://www.osintcombine.com/tools)
 |cipher387|General OSINT Resources Toolkit|[Toolkit](https://github.com/cipher387/osint_stuff_tool_collection)
 |NCSO|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/BnrMKd/01-ncso)
-
-
-https://start.me/p/vjqXe1/toposint-com
-
-https://start.me/p/QRENnO/databases
-
-https://start.me/p/DP62zl/counterintelligence-pl
-
-https://start.me/p/q6lD4d/digitalforensicsmyanmar
-
-https://start.me/p/1kOJ9N/16-osint-io
-
-https://start.me/p/3y5nEE/adze-the-osint-helper
-
-https://start.me/p/MEXNOe/osint-resources-master-repository
-
-https://start.me/p/lLA8ED/webnoser-osint
-
-https://start.me/p/dl7q50/fusion-intelligence
-
-https://start.me/p/BnrMKd/01-ncso
-
-https://start.me/p/GEbBzz/access-osint
-
-https://start.me/p/q6QJXo/azuleonyx-osint
-
-https://start.me/p/gyEalK/06-imint-vi-geoint
-
-https://start.me/p/0PwOGl/osint-all
-
-https://start.me/p/NxG806/ti
-
-https://start.me/p/1kOJ9N/16-osint-io
-
-https://start.me/p/gyEalK/06-imint-vi-geoint
-
-https://start.me/p/PwAJqj/cyber-for-watch
-
-https://start.me/p/DPAL4o/search-party
-
-https://start.me/p/GEpnjd/opcenter
-
-https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard
-
-https://start.me/p/lLzzg7/tomoko-discovery-osint
-
-https://start.me/p/q6naJo/osint-links
-
-https://start.me/p/QRQb0O/trouble-fake
-
-https://start.me/p/b5gEPe/email-osint
-
-https://start.me/p/nRvKOn/dfm-sm-osint
-
-https://start.me/p/X2wwpk/14-dark-web-breach-data
-
-https://start.me/p/kxGLzd/hun-osint
+|Bader Alrowaiei|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/vjqXe1/toposint-com)
+|Kamil|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/DP62zl/counterintelligence-pl)
+|OSINT-IO|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/1kOJ9N/16-osint-io)
+|Fifth Future|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/3y5nEE/adze-the-osint-helper)
+|Ebaco|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/MEXNOe/osint-resources-master-repository)
+|WebNoster|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/lLA8ED/webnoser-osint)
+|Fusion Intelligence|General OSNT Resources Toolkit|[Toolkit](https://start.me/p/dl7q50/fusion-intelligence)
+|AzuleOnyx|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/q6QJXo/azuleonyx-osint)
+|Richard Cranium|General OSNIT Resources Toolkit|[Toolkit](https://start.me/p/0PwOGl/osint-all)
+|Jlitz88|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/NxG806/ti)
+|MTHRFCKR|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/DPAL4o/search-party)
+|OpCenter|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/GEpnjd/opcenter)
+|BBC Africa Eye|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard)
+|Tomoko Discovery|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/lLzzg7/tomoko-discovery-osint)
+|Jonny Blaze|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/q6naJo/osint-links)
+|Trouble Fake|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/QRQb0O/trouble-fake)
+|Aungzawmyoo|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/nRvKOn/dfm-sm-osint)
