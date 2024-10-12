@@ -90,63 +90,60 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 |[Epieos](https://epieos.com)|Find Accounts And Information Linked To An Email Address|
 |[Holehe](https://github.com/megadose/holehe)|Find Accounts And Information Linked To An Email Address|
 |[Crosslinked](https://github.com/m8sec/crosslinked)|Scrape Linkedin For Employee Email Addresses|
-#### Verify Email Validity and Reputation
-|[Hunter](https://hunter.io/email-verifier)
-|[Emailrep](https://emailrep.io)
-|[Experte](https://www.experte.com/email-verification)
-|[Email Hippo](https://tools.verifyemailaddress.io)
-#### Find Correct Email Address Formats
-|[Email-Format](https://www.email-format.com)
-|[Experte](https://www.experte.com/email-finder)
-|[Voilanorbert](https://www.voilanorbert.com)
-#### Analyze Email Headers
-|[Google Admin Toolbox](https://toolbox.googleapps.com/apps/messageheader/)
-|[DNS Checker](https://dnschecker.org/email-header-analyzer.php)
-|[MX Toolbox](https://mxtoolbox.com/EmailHeaders.aspx)
+|[Hunter](https://hunter.io/email-verifier)|Verify Email Validity and Reputation|
+|[Emailrep](https://emailrep.io)|Verify Email Validity and Reputation|
+|[Experte](https://www.experte.com/email-verification)|Verify Email Validity and Reputation|
+|[Email Hippo](https://tools.verifyemailaddress.io)|Verify Email Validity and Reputation|
+|[Email-Format](https://www.email-format.com)|Find Correct Email Address Formats|
+|[Experte](https://www.experte.com/email-finder)|Find Correct Email Address Formats|
+|[Voilanorbert](https://www.voilanorbert.com)|Find Correct Email Address Formats|
+|[Google Admin Toolbox](https://toolbox.googleapps.com/apps/messageheader/)|Analyze Email Headers|
+|[DNS Checker](https://dnschecker.org/email-header-analyzer.php)|Analyze Email Headers|
+|[MX Toolbox](https://mxtoolbox.com/EmailHeaders.aspx)|Analyze Email Headers|
 
 [↑ Back To Top](#contents)
 
 ## Usernames
-#### Find Accounts Associated With A Username
-|[Whats My Name](https://Whatsmyname.app)
-|[NameCheckup](https://namecheckup.com)
-|[Name Vine](https://namevine.com)
-|[Check User Names](https://Checkusernames.com)
-|[Name Checkr](https://Namecheckr.com)
-|[Instant Username Search](https://instantusername.com/#/)
-|[Sherlock](https://github.com/sherlock-project)
-|[Maigret](https://github.com/soxoj/maigret)
-|[Blackbird](https://github.com/p1ngul1n0/blackbird)
-|[WhatsMyName-Python](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python)
-|[Spiderfoot](https://github.com/smicallef/spiderfoot)
+|Name|Description|
+|----|-----------|
+|[Whats My Name](https://Whatsmyname.app)|Find Accounts Associated With A Username|
+|[NameCheckup](https://namecheckup.com)|Find Accounts Associated With A Username|
+|[Name Vine](https://namevine.com)|Find Accounts Associated With A Username|
+|[Check User Names](https://Checkusernames.com)|Find Accounts Associated With A Username|
+|[Name Checkr](https://Namecheckr.com)|Find Accounts Associated With A Username|
+|[Instant Username Search](https://instantusername.com/#/)|Find Accounts Associated With A Username|
+|[Sherlock](https://github.com/sherlock-project)|Find Accounts Associated With A Username|
+|[Maigret](https://github.com/soxoj/maigret)|Find Accounts Associated With A Username|
+|[Blackbird](https://github.com/p1ngul1n0/blackbird)|Find Accounts Associated With A Username|
+|[WhatsMyName-Python](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python)|Find Accounts Associated With A Username|
+|[Spiderfoot](https://github.com/smicallef/spiderfoot)|Find Accounts Associated With A Username|
 
 [↑ Back To Top](#contents)
 
 ## Property Information
-#### US Appraisal/Assesor/Tax Property Lookup
-|[US Appraisal District Link Directory](https://www.blackbookonline.info/USA-Property.aspx)
-|[US Assesor and Property Tax Records](https://www.publicrecords.onlinesearches.com/Assesor-and-Property-Tax-Records.htm)
-|[BlackBookOnline Asset Locator](https://Www.blackbookonline.info/assetsearch.aspx)
-#### Home Realtor Search
-|[Homemetry](https://homemetry.com/)
-|[Rehold](https://rehold.com)
-|[Homes.com](https://homes.com)
-|[Realtor](https://realtor.com)
-|[Zillow](https://zillow.com)
-|[Redfin](https://redfin.com)
+|Name|Description|
+|----|-----------|
+|[US Appraisal District Link Directory](https://www.blackbookonline.info/USA-Property.aspx)|US Appraisal/Assesor/Tax Property Lookup|
+|[US Assesor and Property Tax Records](https://www.publicrecords.onlinesearches.com/Assesor-and-Property-Tax-Records.htm)|US Appraisal/Assesor/Tax Property Lookup|
+|[BlackBookOnline Asset Locator](https://Www.blackbookonline.info/assetsearch.aspx)|US Appraisal/Assesor/Tax Property Lookup|
+|[Homemetry](https://homemetry.com/)|Home Realtor Search|
+|[Rehold](https://rehold.com)|Home Realtor Search|
+|[Homes.com](https://homes.com)|Home Realtor Search|
+|[Realtor](https://realtor.com)|Home Realtor Search|
+|[Zillow](https://zillow.com)|Home Realtor Search|
+|[Redfin](https://redfin.com)|Home Realtor Search|
 
 [↑ Back To Top](#contents)
 
 ## Professional Licenses
-#### US Licenses Master Lists
-|[Black Book Online](https://www.blackbookonline.info/USA-Professional-Licenses.aspx)
-|[BRBPub](https://www.brbpub.com)
-#### Other
-|[Medical License Lookup (US)](https://healthguideusa.org)
-|[Law License Lookup (US)](https://www.americanbar.org/groups/legal_services/flh-home/flh-lawyer-licensing/)
-|[LinkedIn](https://www.linkedin.com/)
-	|[LinkedIn Search Tool](https://freepeoplesearchtool.com)
-|[Indeed](https://www.indeed.com/)
+|Name|Description|
+|----|-----------|
+|[Black Book Online](https://www.blackbookonline.info/USA-Professional-Licenses.aspx)|US Licenses Master Lists|
+|[BRBPub](https://www.brbpub.com)|US Licenses Master Lists|
+|[HealthGuidesUSA](https://healthguideusa.org)|Medical License Lookup (US)|
+|[American BAR](https://www.americanbar.org/groups/legal_services/flh-home/flh-lawyer-licensing/)|Law License Lookup (US)|
+|[LinkedIn](https://www.linkedin.com/)|Individual and Company Professional Information|
+|[LinkedIn Search Tool](https://freepeoplesearchtool.com)|Linkedin Tool That Can Retrieve Results Without an Account|
 
 [↑ Back To Top](#contents)
 
