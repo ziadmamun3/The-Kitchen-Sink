@@ -21,7 +21,7 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 ### 📷 [Image and Video](#image-and-video)
 ### 🤡 [Social Media](#social-media)
 ### 🪪 [Credential Breaches](#credential-breaches)
-### 👻 [Tor Hidden Services](#tor-hidden-services)
+### 🧅 [Tor Hidden Services](#tor-hidden-services)
 ### 🖥️ [Domains](#domains)
 ### 🔢 [IP and MAC Addresses](#ip-and-mac-addresses)
 ### 📻 [Radio Frequency Databases](#radio-frequency-databases)
