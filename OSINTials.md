@@ -336,10 +336,6 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 - tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/forums/
 - tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/onions/
 
-**Dark.Direct**
-- dark.direct
-- dddirectinfv3htc4vl6mied5lpaatora7mmqkcf3sfjrx37fajigmyd.onion
-
 **Dread/d/HiddenService**
 >A subdread for mass posting of hidden services
 - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/d/HiddenService
