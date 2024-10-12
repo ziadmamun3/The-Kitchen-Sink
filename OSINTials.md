@@ -316,7 +316,9 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 [↑ Back To Top](#contents)
 
 ## Tor Hidden Services
->**A NOTE ON THIS SECTION**, if you do not see certain directories, search engines, or forums in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters, or have rules in place, to prevent indexing egregiously degenerate content. You are responsible for understanding the content of and verifying links to the sites you visit. This section is not designed to be a mass spam posting of hidden services, but large social platforms, link directories, and search engines that can be helpful in finding information during OSINT investigations and research. You can find the corresponding bookmarks for this section [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/TorHiddenServicesBookmarks.html). Expect for services to break, go down, and come up randomly. This is expected behavior due to the volatility of the Tor network.
+>**A NOTE ON THIS SECTION**, if you do not see certain directories, search engines, or forums in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters, or have rules in place, to prevent indexing egregiously degenerate content. That being said, this is the uncensored internet, so take some time to research Tor, how to navigate Tor safely, as well as any hidden services that you are using for OSINT or research **BEFORE** you go to them.
+>
+>This section is not designed to be a mass spam posting of hidden services, but large social platforms, link directories, and search engines that can be helpful in finding information during OSINT investigations and research. You can find the corresponding bookmarks for this section [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/TorHiddenServicesBookmarks.html). Expect for services to break, go down, and come up randomly. This is expected behavior due to the volatility of the Tor network.
 ### Link Directories
 **Daunt.Link**
 - daunt.link
@@ -401,14 +403,6 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 **The Guardian**
 - theguardian.com
 - guardian2zotagl6tmjucg3lrhxdk4dw3lhbqnkvvkywawy3oqfoprid.onion
-
-**TorProject**
-- torproject.org
-- 2gzyxa5ihm7nsggfxnu52rck2vv4rvmdlkiu3zzui5du4xyclen53wid.onion
-
-**TorProject Forum**
-- Torproject Forum
-- v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion
 
 [↑ Back To Top](#contents)
 
