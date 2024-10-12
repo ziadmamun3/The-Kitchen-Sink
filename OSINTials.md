@@ -284,7 +284,7 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 |[Youtube](https://youtube.com)|Social Media Plaform|
 |[Anilyzer](https://anilyzer.com)|View Youtube Videos Frame By Frame|
 |[MW Geofind](https://mattw.io/youtube-geofind/location)|View Youtube Videos By Location|
-|[MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Metadata|
+|[MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Video Metadata|
 |[Channel Crawler](https://channelcrawler.com)|Find Youtube Channels By Filters|
 |[Youtube Live](https://Youtube.com/live)|Social Media Plaform|
 |[Twitch](https://Twitch.tv)|Social Media Plaform|
