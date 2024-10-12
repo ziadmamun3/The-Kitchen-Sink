@@ -28,7 +28,7 @@ An OSINT toolkit that prioritizes quality over quantity. The tools in this kit a
 ### 🗂️ [Exif and Metadata](#exif-and-metadata)
 ### ✈️ [Transportation](#transportation)
 ### 📹 [Webcams](#webcams)
-
+### 🧦 [Sock Account Creation](sock-account-creation)
 ## People Search
 
 |Name|Description|
@@ -453,7 +453,7 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 |[Get Notify](https://getnotify.com)|IP Logger Sent Through Email That Also Shows If An Email Was Opened, For How Long, And If Deleted|
 |[Tor Project](https://metrics.torproject.org/rs.html#search)|Look Up Information About Tor Relays|
 |[Tor Project](https://metrics.torproject.org/exonerator.html)|Search An IP Address To See If It Was Ever Used As A Tor Relay|
-|[I Know What You Download](https://iknowwhatyoudownload.com)|IP Address Lookup That Shows What Torrents An IP Address Has Downloaded|
+|[I Know What You Download](https://iknowwhatyoudownload.com)|Search An IP Address To See What Torrents An IP Address Has Downloaded|
 |[Wigle](https://www.wigle.net)|Wireless Network Map|
 |[Maclookup](https://maclookup.app/search)|MAC Address Lookup|
 |[Dnschecker](https://dnschecker.org/mac-lookup.php)|MAC Address Lookup|
@@ -510,3 +510,7 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 |[EarthCam](https://www.earthcam.com)|Live Webcam Monitoring|
 
 [↑ Back To Top](#contents)
+
+## Sock Account Creation
+|Name|Description|
+|----|-----------|
