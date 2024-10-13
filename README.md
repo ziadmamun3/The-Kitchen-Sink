@@ -1,7 +1,19 @@
 # The Kitchen Sink
-![sink](https://github.com/user-attachments/assets/b1a2cdef-30d9-477a-815c-39be617fa7f7)
+![finger](https://github.com/user-attachments/assets/a8e77d5b-a889-4fc7-a475-6938b88102f8)
 
 ## Welcome to The Kitchen Sink!
-This is a repository of resources and tools for performing Open Source Intelligence Investigations. I have created what I beleive to be a toolkit of OSINT essentials (OSINTials). The toolkit is sourced from resources from all corners of the internet; IntelTechniques, r/osint, and many others to name a few. If you're looking for that, it can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/OSINTials.md). If you are looking for the masterlists dump (a collection of OSINT tool masterlists), you can find that over [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Masterlists.md).
+Here you will find toolkits, learning, and practicing resources for Open-Source Intelligence investigations. These resources have beeng gathered from all corners of the internet. There are a ton of resources at your disposal **INCLUDING THE KITCHEN SINK**. The Kitchen Sink is constantly being updated and refined with new tools, information, and resources.
 
-This repo is constantly updated with new tools, information, and resources, including The Kitchen Sink. Stay a while.
+## OSINTials
+I have created a toolkit of OSINT essential (OSINTials) tools to help you during your investigations and research. The toolkit is pieced together from various toolkits and resources. If you're looking for that, it can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/OSINTials.md). If you are interested in a corresponding set of bookmarks, they can be found [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTialBookmarks.html). This toolkit (as well as the bookmarks) will be updated regularly.
+
+## Masterlists
+I have a created a masterlists section where various OSINT toolkits and resources can be found, known as [The Dump](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Masterlists.md). If you're looking for a particular toolkit or want to expand your own, you might check over there.
+
+## Want to learn?
+Many people interested in Open-Source Intelligence are unsure where to begin. The amount of resources and knowledge can be overwhelming, becaues of this I have a made a section for resources to help get you started developing your OSINT skillset. This section is known as [The Library](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md), check it out to help you learn a few tricks of the trade.
+
+## Where do I practice?
+Once you've started researching and developing your OSINT skillset, you'll want to refine it. [The Training Arena](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md) was created with this in mind. Here, you'll find a list of resources and challenges for you to practice your OSINT skillset; give it a look!
+
+Thanks for checking out The Kitchen Sink, stay a while!
