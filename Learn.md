@@ -17,7 +17,7 @@ Class is in session! Here you will find resources to learn about the tools and t
 |[CyberSudo](https://www.youtube.com/watch?v=-5l1gUqxZiI&list=PLUGt-eDfwuxBsycGRw6-fbTbcYPC2VQgn)|CyberSudo OSINT Series (Youtube)
 |[Cody Bernardy](https://www.youtube.com/@0x4rk0)|Cody Bernardy OSINT Series (Youtube)
 |[TraceLabs](https://www.youtube.com/@TraceLabsVideos)|Tracelabs OSINT Channel (Youtube)
-|[Tracelabs](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)|Tracelabs CTF Write-ups
+|[TraceLabs](https://github.com/tracelabs/searchparty-ctf-writeups/blob/master/searchparty-ctf-writeups.md)|Tracelabs CTF Write-ups
 |[OSINT Dojo](https://www.osintdojo.com/)|OSINT Dojo Website
 |[Bellingcat](https://www.bellingcat.com)|Bellingcat Website
 |[Bellingcat](https://www.bellingcat.com/resources/2024/03/26/how-to-get-started-investigating-payment-gateways-online/)|Bellingcat - How To Get Started Investigating Payment Gateways Online
