@@ -28,7 +28,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 ### 🗂️ [Exif and Metadata](#exif-and-metadata)
 ### ✈️ [Transportation](#transportation)
 ### 📹 [Webcams](#webcams)
-### 🧦 [Sock Account Creation](sock-account-creation)
+### 🧦 [Sock Account Creation](#sock-account-creation)
 ## People Search
 
 |Name|Description|
