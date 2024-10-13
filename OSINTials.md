@@ -2,7 +2,7 @@
 ![finalbox](https://github.com/user-attachments/assets/dfe6fbc7-dabe-48e3-b223-6c8bf3082f4b)
 
 
-An OSINT toolkit that prioritizes quality over quantity. The tools in this kit are 99% free, with a few exceptions. These tools have been collected from various places/toolkits and are pieced together with quality being a top priority. If you're interested, you can find the corresponding bookmarks for this toolkit [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTialBookmarks.html).
+An OSINT toolkit that prioritizes quality over quantity. The overwhelming majority of tools in this toolkit are free, with a few exceptions. These tools have been collected from various places/toolkits and are pieced together with quality being a top priority. If you're interested, you can find the corresponding bookmarks for this toolkit [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTialBookmarks.html).
 
 ## Contents
 ### 🧑 [People Search](#people-search)
