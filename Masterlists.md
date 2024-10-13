@@ -47,7 +47,7 @@ This is a collection of various OSINT masterlists.
 |Fifth Future|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/3y5nEE/adze-the-osint-helper)
 |Ebaco|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/MEXNOe/osint-resources-master-repository)
 |WebNoster|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/lLA8ED/webnoser-osint)
-|Fusion Intelligence|General OSNT Resources Toolkit|[Toolkit](https://start.me/p/dl7q50/fusion-intelligence)
+|Fusion Intelligence|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/dl7q50/fusion-intelligence)
 |AzuleOnyx|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/q6QJXo/azuleonyx-osint)
 |Richard Cranium|General OSNIT Resources Toolkit|[Toolkit](https://start.me/p/0PwOGl/osint-all)
 |Jlitz88|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/NxG806/ti)
