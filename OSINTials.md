@@ -321,8 +321,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 >This section is not designed to be a mass spam posting of hidden services, but large social platforms, link directories, and search engines that can be helpful in finding information during OSINT investigations and research. You can find the corresponding bookmarks for this section [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/TorHiddenServicesBookmarks.html). Expect for services to break, go down, and come up randomly. This is expected behavior due to the volatility of the Tor network.
 ### Link Directories
 **Daunt.Link**
-|daunt.link
-|dauntdatakit2xi4usevwp3pajyppsgsrbzkfqyrp6ufsdwrnm6g5tqd.onion
+- daunt.link
+- dauntdatakit2xi4usevwp3pajyppsgsrbzkfqyrp6ufsdwrnm6g5tqd.onion
 
 **Tor.Taxi**
 - tor.taxi
