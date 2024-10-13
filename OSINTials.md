@@ -25,7 +25,6 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 ### 🖥️ [Domains](#domains)
 ### 🔢 [IP and MAC Addresses](#ip-and-mac-addresses)
 ### 📻 [Radio Frequency Databases](#radio-frequency-databases)
-### 🗂️ [Exif and Metadata](#exif-and-metadata)
 ### ✈️ [Transportation](#transportation)
 ### 📹 [Webcams](#webcams)
 ### 🧦 [Sock Account Creation](#sock-account-creation)
@@ -233,7 +232,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Map Quest](https://www.mapquest.com)|Maps Service|
 |[Open Street Map](https://openstreetmap.org)|Maps Service|
 |[Geospy](https://geospy.ai)|Uses AI To Attempt To Geolocate An Image|
-|[Bellingcat OSM Serach](https://osm-search.bellingcat.com/)|Geolocation Based On Inputting The Description Of An Image|
+|[Bellingcat OSM Search](https://osm-search.bellingcat.com/)|Geolocation Based On Inputting The Description Of An Image|
 |[Geohints](https://geohints.com/)|Geolocation Identifiers Master List|
 |[Geomastr](https://geomastr.com/)|Geolocation Identifiers Master List|
 |[IEC](https://www.iec.ch/world-plugs)|World List Of Electrical Outlets|
@@ -261,6 +260,14 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Remove.bg](https://remove.bg)|Removes The Background Of An Image|
 |[Cleaup.Pictures](https://cleanup.pictures)|Removes Objects From An Image|
 |[Neural Love](https://neural.love)|Image Enhancement|
+|[ImgOps](https://imgops.com)|EXIF Data Viewer|
+|[jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)|EXIF Data Viewer|
+|[ExitTool](https://exiftool.org/)|EXIF Data Viewer|
+|[Extract Metadata](https://Extractmetadata.com)|Metadata Viewer|
+|[Exif Info](https://Exifinfo.org)|Metadata Viewer|
+|[Online Decoder](https://Online-barcode-reader.com)|Barcode Scanner|
+|[Online Barcode](https://Onlinebarcodereader.com)|Barcode Scanner|
+|[Online Barcode Reader](https://Online-barcode-reader.inliteresearch.com)|Barcode Scanner|
 |[Google Translate](https://translate.google.com)|Use To Identify And Translate Text In Images|
 |[Video Downloader](https://github.com/Unrud/video-downloader)|Download Videos From Accross The Web|
 
@@ -468,21 +475,6 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 |[Radio Locator](https://radio-locator.com/)|Radio Station Frequency Database|
 |[FCC ID Database](https://fccid.io/)|Radio FCC ID Database|
 |[Broadcastify](https://www.broadcastify.com/)|Live Radio Traffic (including police and fire)|
-
-
-[↑ Back To Top](#contents)
-
-## EXIF and Metadata
-|Name|Description|
-|----|-----------|
-|[ImgOps](https://imgops.com)|EXIF Data Viewer|
-|[jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)|EXIF Data Viewer|
-|[ExitTool](https://exiftool.org/)|EXIF Data Viewer|
-|[Extract Metadata](https://Extractmetadata.com)|Metadata Viewer|
-|[Exif Info](https://Exifinfo.org)|Metadata Viewer|
-|[Online Decoder](https://Online-barcode-reader.com)|Barcode Scanner|
-|[Online Barcode](https://Onlinebarcodereader.com)|Barcode Scanner|
-|[Online Barcode Reader](https://Online-barcode-reader.inliteresearch.com)|Barcode Scanner|
 
 [↑ Back To Top](#contents)
 
