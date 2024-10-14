@@ -13,6 +13,9 @@ I have a created a masterlists section where various OSINT toolkits and resource
 ## Want to learn?
 Many people interested in Open-Source Intelligence are unsure where to begin, the amount of resources and knowledge can be overwhelming. Becaues of this I have a made a section for resources to help get you started developing your OSINT skillset. This section is known as [The Library](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md), check it out to help you learn a few tricks of the trade.
 
+## The Wiki
+In addition to the learning resources found in The Library, I have [created a wiki](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki) where you can find detailed walk-throughs and guides of various OSINT techniques.
+
 ## Where do I practice?
 Once you've started researching and developing your OSINT skillset, you'll want to refine it. [The Training Arena](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md) was created with this in mind. Here you'll find a list of resources and challenges for you to practice your OSINT skillset, give it a look!
 
