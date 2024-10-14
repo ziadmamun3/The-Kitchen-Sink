@@ -377,6 +377,10 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 - vormweb.de/en/
 - volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/en/
 
+**DuckDuckGo**
+- duckduckgo.com
+- duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion
+
 **Brave**
 - search.brave.com
 - search.brave4u7jddbv7cyviptqjc7jusxh72uik7zt6adtckl5f4nwy2v72qd.onion
@@ -394,7 +398,7 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 >(no onion URL available at this time)
 - ddosecrets.com
 
-**RiseUP**
+**RiseUp**
 >A service hosting organization for individuals such as journalists
 - riseup.net
 - vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion
