@@ -32,8 +32,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 
 |Name|Description|
 |----|-----------|
-|[ID Crawl](https://www.idcrawl.com/)|General People Search|
-|[WebMii](https://webmii.com)| General People Search|
+|[ID Crawl](https://www.idcrawl.com/)|Large Data Sets Including Social Media Accounts, People Search Info, and Search Engine Results|
+|[WebMii](https://webmii.com)|Large Data Sets Including Social Media Accounts, People Search Info, and Search Engine Results|
 |[Cyber Background Checks](https://Cyberbackgroundchecks.com)| General People Search|
 |[True People Search](https://Truepeoplesearch.com)| General People Search|
 |[Fast People Search](https://Fastpeoplesearch.com)| General People Search|
@@ -260,6 +260,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Remove.bg](https://remove.bg)|Removes The Background Of An Image|
 |[Cleaup.Pictures](https://cleanup.pictures)|Removes Objects From An Image|
 |[Neural Love](https://neural.love)|Image Enhancement|
+|[FotoForensics](https://fotoforensics.com/)|Image Analysis|
+|[Forensically](https://29a.ch/photo-forensics/)|Image Analysis|
 |[ImgOps](https://imgops.com)|EXIF Data Viewer|
 |[jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)|EXIF Data Viewer|
 |[ExitTool](https://exiftool.org/)|EXIF Data Viewer|
@@ -299,6 +301,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Snapchat](https://www.snapchat.com/)|Social Media Plaform|
 |[Snapchat Map](https://Map.snapchat.com)|Lookup Snapchat Stories By Location|
 |[Link Tree](https://linktr.ee)|Use With Google Dorks|
+|[OnlySearch](https://onlysearch.co/)|Search Onlyfans By Username|
 |[Social Searcher](https://Social-searcher.com)|Lookup Social Media By Posts That Mention Target|
 |[Social Blade](https://socialblade.com/)|Social Media Profile Analytics|
 
