@@ -59,3 +59,5 @@ This is a collection of various OSINT masterlists.
 |Trouble Fake|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/QRQb0O/trouble-fake)
 |Aungzawmyoo|General OSINT Resources Toolkit|[Toolkit](https://start.me/p/nRvKOn/dfm-sm-osint)
 |Tracelabs|General OSINT Resources Toolkit|[Toolkit](https://github.com/tracelabs/awesome-osint)
+|AaronCTI|General OSINT Resources Toolkit|[Toolkit](https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/edit?gid=0#gid=0)
+|CyberSecStu|General OSINT Resources Toolkit|[Toolkit](https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit?gid=603724104#gid=603724104)
