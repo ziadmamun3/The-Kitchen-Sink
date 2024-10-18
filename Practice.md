@@ -1,8 +1,10 @@
+<div align="center">
+
 # The Training Arena
 ![arena](https://github.com/user-attachments/assets/8f1c9b76-9e29-408d-8621-fa0e3c919cc0)
 
 
-Here you will find resources for practicing Open-Source Intelligence skillsets.
+Resources for practicing Open-Source Intelligence skillsets.
 
 |Challenge|Platform|
 |--------|-----------|
@@ -24,3 +26,5 @@ Here you will find resources for practicing Open-Source Intelligence skillsets.
 [Identify Unknown Objects](https://www.reddit.com/r/Whatisthis/)|Reddit/r/whatisthis|
 [Live CTFs For Finding Missing People](https://tracelabs.org)|TraceLabs|
 [Various OSINT Challenges](https://hackyourmom.com/en/kibervijna/osint-ctf-challenges/)|HackYourMom|
+
+</div>
