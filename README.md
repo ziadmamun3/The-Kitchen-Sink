@@ -1,6 +1,9 @@
+<div align="center">
+  
 # The Kitchen Sink
 ![finger](https://github.com/user-attachments/assets/a8e77d5b-a889-4fc7-a475-6938b88102f8)
-
+</div>
+  
 ## Welcome to The Kitchen Sink!
 Here you will find toolkits, learning, and practice resources for Open-Source Intelligence investigations. These resources have beeng gathered from all corners of the internet. There are a ton of resources at your disposal **INCLUDING THE KITCHEN SINK**. The Kitchen Sink is constantly being updated and refined with new tools, information, and resources.
 
