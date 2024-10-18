@@ -1,6 +1,9 @@
+<div align="center">
+  
 # The Dump
 
 ![thedump](https://github.com/user-attachments/assets/d4a832e8-cc73-4823-9fe1-8ccdfb3f44c0)
+</dev>
 
 This is a collection of various OSINT masterlists.
 
