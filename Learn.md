@@ -1,5 +1,8 @@
+<div align="center">
+  
 # The Library
 ![books](https://github.com/user-attachments/assets/e255f18c-b366-4112-8756-b893a030d70c)
+</div>
 
 Class is in session! Here you will find resources to learn about the tools and techniques used for Open-Source Intelligence. You might also check out [the wiki](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki) where you can find detailed walk-throughs and write-ups of various OSINT techniques.
 
