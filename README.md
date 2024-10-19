@@ -22,7 +22,7 @@ In addition to the learning resources found in The Library I have [created a wik
 ## Where do I practice?
 Once you've started researching and developing your OSINT skillset you'll want to refine it. [The Training Arena](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md) was created with this in mind. Here you'll find a list of resources and challenges for you to practice your OSINT skillset, give it a look!
 
-## Data Broker Removal Guides
-If you would like to remove yourself from certain OSINT/data broker databases, I have added a small list of [Data Removal Guides](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/DataRemoval.md) to teach you how to do just that.
+## Data Removal Guides
+If you would like to remove yourself from certain OSINT/data broker databases I have added a small list of [Data Removal Guides](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/DataRemoval.md) to teach you how to do just that.
 
 Thanks for checking out The Kitchen Sink, stay a while!
