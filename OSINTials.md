@@ -90,6 +90,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |Name|Description|
 |----|-----------|
 |[Epieos](https://epieos.com)|Find Accounts And Information Linked To An Email Address|
+|[Castrick Clues](https://castrickclues.com/)|Find Accounts And Information Link To An Email Address|
 |[Holehe](https://github.com/megadose/holehe)|Find Accounts And Information Linked To An Email Address|
 |[Crosslinked](https://github.com/m8sec/crosslinked)|Scrape Linkedin For Employee Email Addresses|
 |[Hunter](https://hunter.io/email-verifier)|Verify Email Validity and Reputation|
@@ -145,7 +146,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[HealthGuidesUSA](https://healthguideusa.org)|Medical License Lookup (US)|
 |[American BAR](https://www.americanbar.org/groups/legal_services/flh-home/flh-lawyer-licensing/)|Law License Lookup (US)|
 |[LinkedIn](https://www.linkedin.com/)|Individual and Company Professional Information|
-|[LinkedIn Search Tool](https://freepeoplesearchtool.com)|Linkedin Tool That Can Retrieve Results Without an Account|
+|[LinkedIn - Search Tool](https://freepeoplesearchtool.com)|Linkedin Tool That Can Retrieve Results Without an Account|
 
 [↑ Back To Top](#contents)
 
@@ -194,6 +195,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Open Corporates](https://Opencorporates.com)|Business Information Search|
 |[Corporation Wiki](https://corporationwiki.com/companies)|Business Information Search|
 |[Crunchbase](https://Crunchbase.com)|Business Information Search|
+|[Cobalt Intelligence](https://cobaltintelligence.com/secretary-of-state-business-search)|Business Information Search|
+|[AihitData](https://www.aihitdata.com)|Business Information Search|
 |[Yelp](https://www.yelp.com/)|Business Reviews/Reputation|
 |[Indeed](https://www.indeed.com)|Business Reviews/Reputation|
 |[Better Business Bureau](https://www.bbb.org/)|Business Reviews/Reputation|
@@ -206,20 +209,20 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |Name|Description|
 |----|-----------|
 |[Google](https://google.com)|Google Search Engine|
-|[Google (advanced search)](https://Google.com/advanced_search)|Advanced Google Search Engine|
-|[Google Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)|Google Dorking Syntax Cheat Sheet|
+|[Google - (advanced search)](https://Google.com/advanced_search)|Advanced Google Search Engine|
+|[Google - Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)|Google Dorking Syntax Cheat Sheet|
 |[Dork Genius](https://dorkgenius.com)|AI Tool That Creates Google Dork Syntax Based On Text Input|
 |[File Type Extensions List](https://en.wikipedia.org/wiki/List_of_file_formats)|Use To Find Correct File Type Extension For Google Dorking|
 |[Google Hacking Database](https://www.exploit-db.com/google-hacking-database)|Various Hacking/OSINT Google Dorks Syntax|
 |[Bing](https://bing.com)|Bing Search Engine|
-|[Bing Dorks Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet/)|Bing Dorking Syntax Cheat Sheet|
+|[Bing - Dorks Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet/)|Bing Dorking Syntax Cheat Sheet|
 |[Yandex](https://yandex.com)|Bing Search Engine|
 |[DuckDuckGo](https://duckduckgo.com)|DuckDuckGo Search Engine|
 |[Qwant](https://qwant.com)|Qwant Search Engine|
 |[Yahoo](https://yahoo.com)|Yahoo Search Engine|
-|[Yahoo (advanced search)](https://search.yahoo.com/web/advanced)|Yahoo Advanced Search Engine|
+|[Yahoo - (advanced search)](https://search.yahoo.com/web/advanced)|Yahoo Advanced Search Engine|
 |[Brave](https://search.brave.com)|Brave Search Engine|
-|[Wayback Machine](https://archive.org)|Search Archived Webpage|
+|[Wayback Machine](https://archive.org)|Search Archived Webpages|
 |[Master Dork List](https://github.com/cipher387/Dorks-collections-list)|Master List For Dorking Syntax Accross Various Search Engines|
 
 [↑ Back To Top](#contents)
@@ -282,29 +285,35 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |Name|Description|
 |----|-----------|
 |[Instagram](https://instagram.com)|Social Media Plaform|
-|[Insta Stories Viewer](https://insta-stories-viewer.com)|View Instagram Profiles|
-|[Inflact](https://inflact.com/tools/profile-analyzer/)|View Instagram Profiles And Analytics|
-|[ImgInn](https://imginn.com)|View Instagram Profiles|
+|[Instagram - Insta Stories Viewer](https://insta-stories-viewer.com)|View Instagram Profiles|
+|[Instagram - Inflact](https://inflact.com/tools/profile-analyzer/)|View Instagram Profiles And Analytics|
+|[Instagram - ImgInn](https://imginn.com)|View Instagram Profiles|
+|[Instagram - Instahunt](https://instahunt.huntintel.io)|View Instagram Posts By Location
 |[Facebook](https://facebook.com)|Social Media Plaform|
 |[Twitter (X)](https://twitter.com)|Social Media Plaform|
+|[Twitter (X) - Birdhunt](https://birdhunt.huntintel.io)|View Tweets By Map Location|
 |[Pinterest](https://pinterest.com)|Social Media Plaform|
 |[Tumblr](https://tumblr.com)|Social Media Plaform|
 |[Patreon](https://www.patreon.com/)|Social Media Plaform|
 |[Graphtreon](https://graphtreon.com/)|Patreon Analytics|
 |[TikTok](https://tiktok.com)|Social Media Plaform|
-|[TikTok Live](https://tiktok.com/live)|Social Media Plaform|
+|[TikTok - Live](https://tiktok.com/live)|Social Media Plaform|
 |[Reddit](https://reddit.com)|Social Media Plaform|
 |[Youtube](https://youtube.com)|Social Media Plaform|
-|[Anilyzer](https://anilyzer.com)|View Youtube Videos Frame By Frame|
-|[MW Geofind](https://mattw.io/youtube-geofind/location)|View Youtube Videos By Location|
-|[MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Video Metadata|
-|[Channel Crawler](https://channelcrawler.com)|Find Youtube Channels By Filters|
-|[Youtube Live](https://Youtube.com/live)|Social Media Plaform|
+|[Youtube - Anilyzer](https://anilyzer.com)|View Youtube Videos Frame By Frame|
+|[Youtube - MW Geofind](https://mattw.io/youtube-geofind/location)|View Youtube Videos By Location|
+|[Youtube - MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Video Metadata|
+|[Youtube - Channel Crawler](https://channelcrawler.com)|Find Youtube Channels By Filters|
+|[Youtube - Live](https://Youtube.com/live)|Social Media Plaform|
 |[Twitch](https://Twitch.tv)|Social Media Plaform|
 |[Snapchat](https://www.snapchat.com/)|Social Media Plaform|
-|[Snapchat Map](https://Map.snapchat.com)|Lookup Snapchat Stories By Location|
-|[Link Tree](https://linktr.ee)|Use With Google Dorks|
-|[OnlySearch](https://onlysearch.co/)|Search Onlyfans By Username|
+|[Snapchat - Snapchat Map](https://Map.snapchat.com)|Lookup Snapchat Stories By Location|
+|[Link Tree](https://linktr.ee)|Social Media Platform Link Directory|
+|[Onlyfans](https://onlyfans.com)|NSFW Social Media Playform
+|[Onlyfans - OnlyFinder](https://onlyfinder.com)|Search Onlyfans By Username|
+|[Onlyfans - OnlySearch](https://onlysearch.co/)|Search Onlyfans By Username|
+|[Onlyfans - FansMetrics](https://fansmetrics.com)|Search Onlyfans By Username|
+|[Onlyfans - Hubite](https://hubite.com/en/)|Search Onlyfans By Username|
 |[Social Searcher](https://Social-searcher.com)|Lookup Social Media By Posts That Mention Target|
 |[Social Blade](https://socialblade.com/)|Social Media Profile Analytics|
 
