@@ -18,6 +18,7 @@ A collection of various OSINT masterlists.
 |[Bohdan Taraneko](https://start.me/p/aL6BOM/online-gaming-intelligence)|Online Gaming Intelligence Toolkit|
 |[OSINT For Countries](https://github.com/wddadk/OSINT-for-countries)|OSINT Resources Toolkit Organized by Country|
 |[Sightlent](https://start.me/p/jj2XEr/osint-global-non-us)|OSINT Resources Toolkit Organized by Country|
+|[ItIsMeCall911](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|OSNT Toolkit for Telegram
 |[wddadk](https://github.com/wddadk/Offensive-OSINT-Tools)|Offensive OSINT Tools|
 |[Emmanuelle Welch](https://start.me/p/VRxaj5/dating-apps-and-hook-up-sites-for-investigators)|OSINT For Dating and Hookup Sites|
 |[Igor Bederov](https://start.me/p/0PgzqO/photo-osint)|OSINT Resources For Images|
