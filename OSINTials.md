@@ -103,6 +103,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Google Admin Toolbox](https://toolbox.googleapps.com/apps/messageheader/)|Analyze Email Headers|
 |[DNS Checker](https://dnschecker.org/email-header-analyzer.php)|Analyze Email Headers|
 |[MX Toolbox](https://mxtoolbox.com/EmailHeaders.aspx)|Analyze Email Headers|
+|https://www.google.com/maps/contrib/ GOOGLE ID NUMBER|View Google Maps Account Info (Reviews and Photos) With A Google Account ID|
+|https://web.archive.org/web/*/plus.google.com/ GOOGLE ID NUMBER*|View Google Plus Archive Info With A Google Account ID|
 
 [↑ Back To Top](#contents)
 
