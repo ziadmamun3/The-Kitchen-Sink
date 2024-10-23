@@ -314,7 +314,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Snapchat](https://www.snapchat.com/)|Social Media Plaform|
 |[Snapchat - Snapchat Map](https://Map.snapchat.com)|View Snapchat Stories By Location (interactive map)|
 |[Link Tree](https://linktr.ee)|Social Media Platform Link Directory|
-|[Onlyfans](https://onlyfans.com)|NSFW Social Media Playform
+|[Onlyfans](https://onlyfans.com)|NSFW Social Media Platform
 |[Onlyfans - OnlyFinder](https://onlyfinder.com)|Onlyfans Lookup Tool|
 |[Onlyfans - OnlySearch](https://onlysearch.co/)|Onlyfans Lookup Tool|
 |[Onlyfans - FansMetrics](https://fansmetrics.com)|Onlyfans Lookup Tool|
