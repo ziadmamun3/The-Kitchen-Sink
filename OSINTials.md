@@ -371,7 +371,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 
 ### Forums
 **Dread**
->This is the darknet social media platform similar to Reddit
+>This is a darknet social media platform similar to Reddit
 - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
 - g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
 
