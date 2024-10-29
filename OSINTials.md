@@ -199,6 +199,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Crunchbase](https://Crunchbase.com)|Business Information Search|
 |[Cobalt Intelligence](https://cobaltintelligence.com/secretary-of-state-business-search)|Business Information Search|
 |[AihitData](https://www.aihitdata.com)|Business Information Search|
+|[US SEC](https://sec.gov/search-filings)|US Securities and Exchange Commission Business Records|
 |[Yelp](https://www.yelp.com/)|Business Reviews/Reputation|
 |[Indeed](https://www.indeed.com)|Business Reviews/Reputation|
 |[Better Business Bureau](https://www.bbb.org/)|Business Reviews/Reputation|
@@ -262,15 +263,15 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Alamy](https://www.alamy.com/)|Image Search|
 |[Tineye](https://tineye.com)|Image Search|
 |[Face Comparison](https://facecomparison.toolpie.com/)|Compare Two Images To See If They Are The Same Person|
-|[Face Shape](https://www.faceshape.com/)|Compare Two Images To See If They Are The Same Person|
 |[Facecheck](https://facecheck.id)|Facial Recognition|
 |[Pimeyes](https://pimeyes.com)|Facial Recognition|
 |[Search4Faces](https://www.search4faces.com/en/)|Facial Recognition|
 |[Remove.bg](https://remove.bg)|Removes The Background Of An Image|
 |[Cleaup.Pictures](https://cleanup.pictures)|Removes Objects From An Image|
-|[Neural Love](https://neural.love)|Image Enhancement|
-|[FotoForensics](https://fotoforensics.com/)|Image Analysis|
-|[Forensically](https://29a.ch/photo-forensics/)|Image Analysis|
+|[Upscayl](https://upscayl.org)|Image Upscaler|
+|[Pinetools](https://pinetools.com/c-images/)|Apply Filters To Analyze An Image|
+|[FotoForensics](https://fotoforensics.com/)|Apply Filters To Analyze An Image|
+|[Forensically](https://29a.ch/photo-forensics/)|Apply Filters To Analyze An Image|
 |[ImgOps](https://imgops.com)|EXIF Data Viewer|
 |[jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)|EXIF Data Viewer|
 |[ExitTool](https://exiftool.org/)|EXIF Data Viewer|
@@ -280,7 +281,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Online Barcode](https://Onlinebarcodereader.com)|Barcode Scanner|
 |[Online Barcode Reader](https://Online-barcode-reader.inliteresearch.com)|Barcode Scanner|
 |[Google Translate](https://translate.google.com)|Use To Identify And Translate Text In Images|
-|[Video Downloader](https://github.com/Unrud/video-downloader)|Download Videos From Accross The Web|
+|[yt-dlp](https://github.com/yt-dlp/yt-dlp)|Video downloader|
+|[Video Downloader](https://github.com/Unrud/video-downloader)|Video Downloader|
 
 [↑ Back To Top](#contents)
 
