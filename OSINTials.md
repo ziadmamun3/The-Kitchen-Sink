@@ -163,8 +163,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[VineLink](https://vinelink.com)|US Criminal Background Search|
 |[Federal BOP Inmate Lookup](https://www.justice.gov/action-center/locate-pr)|US Inmate Lookup|
 |[State Inmate lookup](https://www.blackbookonline.info/USA-Inmates.aspx)|US Inmate Lookup|
-|[Sex Offender Database](https://nsopw.gov/)|US Warrant & Sex Offender Search|
-|[State Warrant Search](https://www.blackbookonline.info/USA-arrest-warrants.aspx)|US Warrant & Sex Offender Search|
+|[Sex Offender Database](https://nsopw.gov/)|US Sex Offender Search|
+|[State Warrant Search](https://www.blackbookonline.info/USA-arrest-warrants.aspx)|US Warrants Search|
 
 [↑ Back To Top](#contents)
 
