@@ -281,7 +281,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Online Barcode](https://Onlinebarcodereader.com)|Barcode Scanner|
 |[Online Barcode Reader](https://Online-barcode-reader.inliteresearch.com)|Barcode Scanner|
 |[Google Translate](https://translate.google.com)|Use To Identify And Translate Text In Images|
-|[yt-dlp](https://github.com/yt-dlp/yt-dlp)|Video downloader|
+|[yt-dlp](https://github.com/yt-dlp/yt-dlp)|Video Downloader|
 |[Video Downloader](https://github.com/Unrud/video-downloader)|Video Downloader|
 
 [↑ Back To Top](#contents)
