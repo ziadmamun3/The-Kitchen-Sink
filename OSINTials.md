@@ -531,9 +531,10 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 ## Sock Account Creation
 |Name|Description|
 |----|-----------|
-[Fake Name Generator](https://Fakenamegenerator.com)|Generate Sock Puppet Names|
-[Fake Identity Generator](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)|Generate Sock Puppet Identities|
-[ID Creator](https://www.idcreator.com)|Generate Sock Puppet ID Cards|
+|[Master List For Persona Creation](https://start.me/p/ZkMLp5/persona)|By Bruno Mortier|
+|[Fake Name Generator](https://Fakenamegenerator.com)|Generate Sock Puppet Names|
+|[Fake Identity Generator](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)|Generate Sock Puppet Identities|
+|[ID Creator](https://www.idcreator.com)|Generate Sock Puppet ID Cards|
 |[Fake Biography Generator](https://www.character-generator.org.uk/bio/)|Generate A Biography For Your Sock Puppet|
 |[This Resume Does Not Exist](https://thisresumedoesnotexist.com)|Generate Sock Puppet Resumes|
 |[This Person Does Not Exist](https://Thispersondoesnotexist.com)|Generate Sock Puppet Profile Pictures|
