@@ -475,7 +475,7 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 ## IP and MAC Addresses
 |Name|Description|
 |----|-----------|
-|[IP Lookup](https://Ip-lookup.org)|IP Address Lookup (Shows If A Proxy, VPN, OR Tor Is Being Used)|
+|[IP Lookup](https://Ip-lookup.org)|IP Address Lookup (Shows If A Proxy, VPN, or Tor Is Being Used)|
 |[IP Location](https://Iplocation.net)|IP Address Lookup|
 |[That's Them](https://thatsthem.com/reverse-ip-lookup)|IP Address Lookup|
 |[Abuse IPDB](https://www.abuseipdb.com)|Malicious IP Address Lookup|
