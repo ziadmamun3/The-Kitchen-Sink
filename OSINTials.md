@@ -345,7 +345,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 [↑ Back To Top](#contents)
 
 ## Tor Hidden Services
->**A NOTE ON THIS SECTION**, if you do not see certain directories, search engines, or forums in this list, it's for a reason. I refuse to list any hidden services that do not utilize filters, or have rules in place, to prevent indexing egregiously degenerate content. If you are new to using Tor for OSINT investigations or research, please read my guide on [navigating the darkweb.](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki/Navigating-The-Darkweb)
+>**A NOTE ON THIS SECTION**, if you do not see certain directories, search engines, or forums in this list it's for a reason. I refuse to list any hidden services that do not utilize filters or have rules in place to prevent indexing egregiously degenerate content. If you are new to using Tor for OSINT investigations or research, please read my guide on [navigating the darkweb.](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki/Navigating-The-Darkweb)
 ### Link Directories
 **Daunt.Link**
 - daunt.link
