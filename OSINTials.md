@@ -120,8 +120,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Blackbird](https://github.com/p1ngul1n0/blackbird)|Find Accounts Associated With A Username|
 |[WhatsMyName-Python](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python)|Find Accounts Associated With A Username|
 |[Spiderfoot](https://github.com/smicallef/spiderfoot)|Find Accounts Associated With A Username|
-|https://www.google.com/maps/contrib/ GOOGLE ID NUMBER|View Google Maps Account Info (Reviews and Photos) Of A Google Account ID|
-|https://web.archive.org/web/*/plus.google.com/ GOOGLE ID NUMBER*|View Google Plus Archive Info Of A Google Account ID|
+|```https://www.google.com/maps/contrib/EnterGoogleIDNumberHere```|URL Structure To View Google Maps Account Info (Reviews and Photos) Of A Google Account ID|
+|```https://web.archive.org/web/*/plus.google.com/EnterGoogleIDNumberHere*```|URL Structure To View Google Plus Archive Info Of A Google Account ID|
 
 [↑ Back To Top](#contents)
 
@@ -300,22 +300,27 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Pinterest](https://pinterest.com)|Social Media Plaform|
 |[Tumblr](https://tumblr.com)|Social Media Plaform|
 |[Patreon](https://www.patreon.com/)|Social Media Plaform|
-|[Graphtreon](https://graphtreon.com/)|Patreon Analytics|
+|[Patreon - Graphtreon](https://graphtreon.com/)|Patreon Analytics|
 |[TikTok](https://tiktok.com)|Social Media Plaform|
 |[TikTok - Live](https://tiktok.com/live)|Social Media Plaform|
 |[Reddit](https://reddit.com)|Social Media Plaform|
+|[Imgur](https://imgur.com/)|Social Media Image Board|
 |[Youtube](https://youtube.com)|Social Media Plaform|
+|[Youtube - Live](https://Youtube.com/live)|Social Media Plaform|
 |[Youtube - Anilyzer](https://anilyzer.com)|View Youtube Videos Frame By Frame|
 |[Youtube - MW Geofind](https://mattw.io/youtube-geofind/location)|View Youtube Videos By Location (interactive map)|
 |[Youtube - MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Video Metadata|
 |[Youtube - Channel Crawler](https://channelcrawler.com)|Find Youtube Channels By Filters|
-|[Youtube - Live](https://Youtube.com/live)|Social Media Plaform|
 |[Twitch](https://Twitch.tv)|Social Media Plaform|
 |[Telegram](https://telegram.org)|Social Media Platform|
 |[Telegram - OSINT Toolkit For Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|Social Media Platform|
 |[Snapchat](https://www.snapchat.com/)|Social Media Plaform|
 |[Snapchat - Snapchat Map](https://Map.snapchat.com)|View Snapchat Stories By Location (interactive map)|
-|[Link Tree](https://linktr.ee)|Social Media Platform Link Directory|
+|Snapchat - ```https://www.snapchat.com/add/EnterUsernameHere```|Snapchat URL Structure For Viewing Accounts|
+|[Linktree](https://linktr.ee)|Social Media Platform Link Directory|
+|Linktree - ```https://linktr.ee/EnterUsernameHere```|LinkTree URL Structure For Viewing Accounts|
+|[Tinder](https://tinder.com/)|Dating Platform|
+|Tinder - ```https://tinder.com/@EnterUsernameHere```|Tinder URL Structure For Viewing Accounts|
 |[Onlyfans](https://onlyfans.com)|NSFW Social Media Platform
 |[Onlyfans - OnlyFinder](https://onlyfinder.com)|Onlyfans Lookup Tool|
 |[Onlyfans - OnlySearch](https://onlysearch.co/)|Onlyfans Lookup Tool|
