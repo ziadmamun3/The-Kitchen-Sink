@@ -13,6 +13,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 ### 📞 [Telephone Numbers](#telephone-numbers)
 ### ✉️ [Email](#email)
 ### 📛 [Usernames](#usernames)
+### 🤡 [Social Media](#social-media)
 ### 🏠 [Property Information](#property-information)
 ### ⚒️ [Professional Licenses](#professional-licenses)
 ### 🚓 [Criminal Background](#criminal-background)
@@ -22,7 +23,6 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 ### 🔎 [Search Engines](#search-engines)
 ### 🗺️ [Maps and Geolocation Identifiers](#maps-and-geolocation-identifiers)
 ### 📷 [Image and Video](#image-and-video)
-### 🤡 [Social Media](#social-media)
 ### 🪪 [Credential Breaches](#credential-breaches)
 ### 🧅 [Tor Hidden Services](#tor-hidden-services)
 ### 🖥️ [Domains](#domains)
@@ -122,6 +122,51 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Spiderfoot](https://github.com/smicallef/spiderfoot)|Find Accounts Associated With A Username|
 |```https://www.google.com/maps/contrib/EnterGoogleIDNumberHere```|URL Structure To View Google Maps Account Info (Reviews and Photos) Of A Google Account ID|
 |```https://web.archive.org/web/*/plus.google.com/EnterGoogleIDNumberHere*```|URL Structure To View Google Plus Archive Info Of A Google Account ID|
+
+[↑ Back To Top](#contents)
+
+## Social Media
+|Name|Description|
+|----|-----------|
+|[Instagram](https://instagram.com)|Social Media Plaform|
+|[Instagram - Insta Stories Viewer](https://insta-stories-viewer.com)|View Instagram Profiles|
+|[Instagram - ImgInn](https://imginn.com)|View Instagram Profiles|
+|[Instagram - Inflact](https://inflact.com/tools/profile-analyzer/)|View Instagram Profiles And Analytics|
+|[Instagram - Instahunt](https://instahunt.huntintel.io)|View Instagram Posts By Location (interactive map)|
+|[Facebook](https://facebook.com)|Social Media Plaform|
+|[Twitter (X)](https://twitter.com)|Social Media Plaform|
+|[Twitter (X) - Birdhunt](https://birdhunt.huntintel.io)|View Tweets By Location (interactive map)|
+|[Pinterest](https://pinterest.com)|Social Media Plaform|
+|[Tumblr](https://tumblr.com)|Social Media Plaform|
+|[Patreon](https://www.patreon.com/)|Social Media Plaform|
+|[Patreon - Graphtreon](https://graphtreon.com/)|Patreon Analytics|
+|[TikTok](https://tiktok.com)|Social Media Plaform|
+|[TikTok - Live](https://tiktok.com/live)|Social Media Plaform|
+|[Reddit](https://reddit.com)|Social Media Plaform|
+|[Imgur](https://imgur.com/)|Social Media Image Board|
+|[Youtube](https://youtube.com)|Social Media Plaform|
+|[Youtube - Live](https://Youtube.com/live)|Social Media Plaform|
+|[Youtube - Anilyzer](https://anilyzer.com)|View Youtube Videos Frame By Frame|
+|[Youtube - MW Geofind](https://mattw.io/youtube-geofind/location)|View Youtube Videos By Location (interactive map)|
+|[Youtube - MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Video Metadata|
+|[Youtube - Channel Crawler](https://channelcrawler.com)|Find Youtube Channels By Filters|
+|[Twitch](https://Twitch.tv)|Social Media Plaform|
+|[Telegram](https://telegram.org)|Social Media Platform|
+|[Telegram - OSINT Toolkit For Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|Social Media Platform|
+|[Snapchat](https://www.snapchat.com/)|Social Media Plaform|
+|[Snapchat - Snapchat Map](https://Map.snapchat.com)|View Snapchat Stories By Location (interactive map)|
+|Snapchat - ```https://www.snapchat.com/add/EnterUsernameHere```|Snapchat URL Structure For Viewing Accounts|
+|[Linktree](https://linktr.ee)|Social Media Platform Link Directory|
+|Linktree - ```https://linktr.ee/EnterUsernameHere```|LinkTree URL Structure For Viewing Accounts|
+|[Tinder](https://tinder.com/)|Dating Platform|
+|Tinder - ```https://tinder.com/@EnterUsernameHere```|Tinder URL Structure For Viewing Accounts|
+|[Onlyfans](https://onlyfans.com)|NSFW Social Media Platform
+|[Onlyfans - OnlyFinder](https://onlyfinder.com)|Onlyfans Lookup Tool|
+|[Onlyfans - OnlySearch](https://onlysearch.co/)|Onlyfans Lookup Tool|
+|[Onlyfans - FansMetrics](https://fansmetrics.com)|Onlyfans Lookup Tool|
+|[Onlyfans - Hubite](https://hubite.com/en/)|Onlyfans Lookup Tool|
+|[Social Searcher](https://Social-searcher.com)|Lookup Social Media By Posts That Mention Target|
+|[Social Blade](https://socialblade.com/)|Social Media Profile Analytics|
 
 [↑ Back To Top](#contents)
 
@@ -283,51 +328,6 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Google Translate](https://translate.google.com)|Use To Identify And Translate Text In Images|
 |[yt-dlp](https://github.com/yt-dlp/yt-dlp)|Video Downloader|
 |[Video Downloader](https://github.com/Unrud/video-downloader)|Video Downloader|
-
-[↑ Back To Top](#contents)
-
-## Social Media
-|Name|Description|
-|----|-----------|
-|[Instagram](https://instagram.com)|Social Media Plaform|
-|[Instagram - Insta Stories Viewer](https://insta-stories-viewer.com)|View Instagram Profiles|
-|[Instagram - ImgInn](https://imginn.com)|View Instagram Profiles|
-|[Instagram - Inflact](https://inflact.com/tools/profile-analyzer/)|View Instagram Profiles And Analytics|
-|[Instagram - Instahunt](https://instahunt.huntintel.io)|View Instagram Posts By Location (interactive map)|
-|[Facebook](https://facebook.com)|Social Media Plaform|
-|[Twitter (X)](https://twitter.com)|Social Media Plaform|
-|[Twitter (X) - Birdhunt](https://birdhunt.huntintel.io)|View Tweets By Location (interactive map)|
-|[Pinterest](https://pinterest.com)|Social Media Plaform|
-|[Tumblr](https://tumblr.com)|Social Media Plaform|
-|[Patreon](https://www.patreon.com/)|Social Media Plaform|
-|[Patreon - Graphtreon](https://graphtreon.com/)|Patreon Analytics|
-|[TikTok](https://tiktok.com)|Social Media Plaform|
-|[TikTok - Live](https://tiktok.com/live)|Social Media Plaform|
-|[Reddit](https://reddit.com)|Social Media Plaform|
-|[Imgur](https://imgur.com/)|Social Media Image Board|
-|[Youtube](https://youtube.com)|Social Media Plaform|
-|[Youtube - Live](https://Youtube.com/live)|Social Media Plaform|
-|[Youtube - Anilyzer](https://anilyzer.com)|View Youtube Videos Frame By Frame|
-|[Youtube - MW Geofind](https://mattw.io/youtube-geofind/location)|View Youtube Videos By Location (interactive map)|
-|[Youtube - MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Video Metadata|
-|[Youtube - Channel Crawler](https://channelcrawler.com)|Find Youtube Channels By Filters|
-|[Twitch](https://Twitch.tv)|Social Media Plaform|
-|[Telegram](https://telegram.org)|Social Media Platform|
-|[Telegram - OSINT Toolkit For Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|Social Media Platform|
-|[Snapchat](https://www.snapchat.com/)|Social Media Plaform|
-|[Snapchat - Snapchat Map](https://Map.snapchat.com)|View Snapchat Stories By Location (interactive map)|
-|Snapchat - ```https://www.snapchat.com/add/EnterUsernameHere```|Snapchat URL Structure For Viewing Accounts|
-|[Linktree](https://linktr.ee)|Social Media Platform Link Directory|
-|Linktree - ```https://linktr.ee/EnterUsernameHere```|LinkTree URL Structure For Viewing Accounts|
-|[Tinder](https://tinder.com/)|Dating Platform|
-|Tinder - ```https://tinder.com/@EnterUsernameHere```|Tinder URL Structure For Viewing Accounts|
-|[Onlyfans](https://onlyfans.com)|NSFW Social Media Platform
-|[Onlyfans - OnlyFinder](https://onlyfinder.com)|Onlyfans Lookup Tool|
-|[Onlyfans - OnlySearch](https://onlysearch.co/)|Onlyfans Lookup Tool|
-|[Onlyfans - FansMetrics](https://fansmetrics.com)|Onlyfans Lookup Tool|
-|[Onlyfans - Hubite](https://hubite.com/en/)|Onlyfans Lookup Tool|
-|[Social Searcher](https://Social-searcher.com)|Lookup Social Media By Posts That Mention Target|
-|[Social Blade](https://socialblade.com/)|Social Media Profile Analytics|
 
 [↑ Back To Top](#contents)
 
