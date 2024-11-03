@@ -129,42 +129,43 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |Name|Description|
 |----|-----------|
 |[Instagram](https://instagram.com)|Social Media Plaform|
-|[Instagram - Insta Stories Viewer](https://insta-stories-viewer.com)|View Instagram Profiles|
-|[Instagram - ImgInn](https://imginn.com)|View Instagram Profiles|
-|[Instagram - Inflact](https://inflact.com/tools/profile-analyzer/)|View Instagram Profiles And Analytics|
-|[Instagram - Instahunt](https://instahunt.huntintel.io)|View Instagram Posts By Location (interactive map)|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Instagram - Insta Stories Viewer](https://insta-stories-viewer.com)|View Instagram Profiles|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Instagram - ImgInn](https://imginn.com)|View Instagram Profiles|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Instagram - Inflact](https://inflact.com/tools/profile-analyzer/)|View Instagram Profiles And Analytics|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Instagram - Instahunt](https://instahunt.huntintel.io)|View Instagram Posts By Location (interactive map)|
 |[Facebook](https://facebook.com)|Social Media Plaform|
 |[Twitter (X)](https://twitter.com)|Social Media Plaform|
-|[Twitter (X) - Birdhunt](https://birdhunt.huntintel.io)|View Tweets By Location (interactive map)|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Twitter (X) - Birdhunt](https://birdhunt.huntintel.io)|View Tweets By Location (interactive map)|
 |[Pinterest](https://pinterest.com)|Social Media Plaform|
 |[Tumblr](https://tumblr.com)|Social Media Plaform|
 |[Patreon](https://www.patreon.com/)|Social Media Plaform|
-|[Patreon - Graphtreon](https://graphtreon.com/)|Patreon Analytics|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Patreon - Graphtreon](https://graphtreon.com/)|Patreon Analytics|
 |[TikTok](https://tiktok.com)|Social Media Plaform|
-|[TikTok - Live](https://tiktok.com/live)|Social Media Plaform|
+|&nbsp;&nbsp;&nbsp;&nbsp;[TikTok - Live](https://tiktok.com/live)|Social Media Plaform|
 |[Reddit](https://reddit.com)|Social Media Plaform|
 |[Imgur](https://imgur.com/)|Social Media Image Board|
 |[Youtube](https://youtube.com)|Social Media Plaform|
-|[Youtube - Live](https://Youtube.com/live)|Social Media Plaform|
-|[Youtube - Anilyzer](https://anilyzer.com)|View Youtube Videos Frame By Frame|
-|[Youtube - MW Geofind](https://mattw.io/youtube-geofind/location)|View Youtube Videos By Location (interactive map)|
-|[Youtube - MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Video Metadata|
-|[Youtube - Channel Crawler](https://channelcrawler.com)|Find Youtube Channels By Filters|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Youtube - Live](https://Youtube.com/live)|Social Media Plaform|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Youtube - Anilyzer](https://anilyzer.com)|View Youtube Videos Frame By Frame|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Youtube - MW Geofind](https://mattw.io/youtube-geofind/location)|View Youtube Videos By Location (interactive map)|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Youtube - MW Metadata](https://mattw.io/youtube-metadata/)|View Youtube Video Metadata|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Youtube - Channel Crawler](https://channelcrawler.com)|Find Youtube Channels By Filters|
 |[Twitch](https://Twitch.tv)|Social Media Plaform|
 |[Telegram](https://telegram.org)|Social Media Platform|
-|[Telegram - OSINT Toolkit For Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|Social Media Platform|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Telegram - OSINT Toolkit For Telegram](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|Social Media Platform|
 |[Snapchat](https://www.snapchat.com/)|Social Media Plaform|
-|[Snapchat - Snapchat Map](https://Map.snapchat.com)|View Snapchat Stories By Location (interactive map)|
-|Snapchat - ```https://www.snapchat.com/add/EnterUsernameHere```|Snapchat URL Structure For Viewing Accounts|
+|&nbsp;&nbsp;&nbsp;&nbsp;Snapchat - ```https://www.snapchat.com/add/EnterUsernameHere```|Snapchat URL Structure For Viewing Accounts|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Snapchat - Snapchat Map](https://Map.snapchat.com)|View Snapchat Stories By Location (interactive map)|
 |[Linktree](https://linktr.ee)|Social Media Platform Link Directory|
-|Linktree - ```https://linktr.ee/EnterUsernameHere```|LinkTree URL Structure For Viewing Accounts|
+|&nbsp;&nbsp;&nbsp;&nbsp;Linktree - ```https://linktr.ee/EnterUsernameHere```|LinkTree URL Structure For Viewing Accounts|
 |[Tinder](https://tinder.com/)|Dating Platform|
-|Tinder - ```https://tinder.com/@EnterUsernameHere```|Tinder URL Structure For Viewing Accounts|
+|&nbsp;&nbsp;&nbsp;&nbsp;Tinder - ```https://tinder.com/@EnterUsernameHere```|Tinder URL Structure For Viewing Accounts|
 |[Onlyfans](https://onlyfans.com)|NSFW Social Media Platform
-|[Onlyfans - OnlyFinder](https://onlyfinder.com)|Onlyfans Lookup Tool|
-|[Onlyfans - OnlySearch](https://onlysearch.co/)|Onlyfans Lookup Tool|
-|[Onlyfans - FansMetrics](https://fansmetrics.com)|Onlyfans Lookup Tool|
-|[Onlyfans - Hubite](https://hubite.com/en/)|Onlyfans Lookup Tool|
+|&nbsp;&nbsp;&nbsp;&nbsp;Onlyfans - ```https://onlyfans.com/EnterUsernameHere```|Onlyfans URL Structure For Viewing Accounts|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Onlyfans - OnlyFinder](https://onlyfinder.com)|Onlyfans Lookup Tool|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Onlyfans - OnlySearch](https://onlysearch.co/)|Onlyfans Lookup Tool|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Onlyfans - FansMetrics](https://fansmetrics.com)|Onlyfans Lookup Tool|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Onlyfans - Hubite](https://hubite.com/en/)|Onlyfans Lookup Tool|
 |[Social Searcher](https://Social-searcher.com)|Lookup Social Media By Posts That Mention Target|
 |[Social Blade](https://socialblade.com/)|Social Media Profile Analytics|
 
@@ -257,18 +258,18 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |Name|Description|
 |----|-----------|
 |[Google](https://google.com)|Google Search Engine|
-|[Google - (advanced search)](https://Google.com/advanced_search)|Advanced Google Search Engine|
-|[Google - Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)|Google Dorking Syntax Cheat Sheet|
-|[Dork Genius](https://dorkgenius.com)|AI Tool That Creates Google Dork Syntax Based On Text Input|
-|[File Type Extensions List](https://en.wikipedia.org/wiki/List_of_file_formats)|Use To Find Correct File Type Extension For Google Dorking|
-|[Google Hacking Database](https://www.exploit-db.com/google-hacking-database)|Various Hacking/OSINT Google Dorks Syntax|
+|&nbsp;[Google - (advanced search)](https://Google.com/advanced_search)|Advanced Google Search Engine|
+|&nbsp;[Google - Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)|Google Dorking Syntax Cheat Sheet|
+|&nbsp;[Dork Genius](https://dorkgenius.com)|AI Tool That Creates Google Dork Syntax Based On Text Input|
+|&nbsp;[File Type Extensions List](https://en.wikipedia.org/wiki/List_of_file_formats)|Use To Find Correct File Type Extension For Google Dorking|
+|&nbsp;[Google Hacking Database](https://www.exploit-db.com/google-hacking-database)|Various Hacking/OSINT Google Dorks Syntax|
 |[Bing](https://bing.com)|Bing Search Engine|
-|[Bing - Dorks Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet/)|Bing Dorking Syntax Cheat Sheet|
+|&nbsp;[Bing - Dorks Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet/)|Bing Dorking Syntax Cheat Sheet|
 |[Yandex](https://yandex.com)|Bing Search Engine|
 |[DuckDuckGo](https://duckduckgo.com)|DuckDuckGo Search Engine|
 |[Qwant](https://qwant.com)|Qwant Search Engine|
 |[Yahoo](https://yahoo.com)|Yahoo Search Engine|
-|[Yahoo - (advanced search)](https://search.yahoo.com/web/advanced)|Yahoo Advanced Search Engine|
+|&nbsp;[Yahoo - (advanced search)](https://search.yahoo.com/web/advanced)|Yahoo Advanced Search Engine|
 |[Brave](https://search.brave.com)|Brave Search Engine|
 |[Wayback Machine](https://archive.org)|Search Archived Webpages|
 |[Master Dork List](https://github.com/cipher387/Dorks-collections-list)|Master List For Dorking Syntax Accross Various Search Engines|
@@ -279,8 +280,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |Name|Description|
 |----|-----------|
 |[Google Maps](https://maps.google.com)|Maps Service|
-|[Instant Street View](https://instantstreetview.com)|Snap To Google Street View|
-|[Google Earth](https://earth.google.com/)|Maps Service|
+|&nbsp;[Instant Street View](https://instantstreetview.com)|Snap To Google Street View|
+|&nbsp;[Google Earth](https://earth.google.com/)|Maps Service|
 |[Bing Maps](https://www.bing.com/maps)|Maps Service|
 |[Yandex Maps](https://yandex.com/maps/)|Maps Service|
 |[Map Quest](https://www.mapquest.com)|Maps Service|
