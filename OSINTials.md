@@ -538,7 +538,7 @@ r/onions, r/darknet, r/deepweb, r/TOR, r/tails
 ## Sock Account Creation
 |Name|Description|
 |----|-----------|
-|[Master List For Persona Creation](https://start.me/p/ZkMLp5/persona)|By Bruno Mortier|
+|[PERSONA Masterlist](https://start.me/p/ZkMLp5/persona)|Master List Of Tools For Persona Creation|
 |[Fake Name Generator](https://Fakenamegenerator.com)|Generate Sock Puppet Names|
 |[Fake Identity Generator](https://backgroundchecks.org/justdeleteme/fake-identity-generator/)|Generate Sock Puppet Identities|
 |[ID Creator](https://www.idcreator.com)|Generate Sock Puppet ID Cards|
