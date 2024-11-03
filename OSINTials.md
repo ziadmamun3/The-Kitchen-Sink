@@ -258,18 +258,18 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |Name|Description|
 |----|-----------|
 |[Google](https://google.com)|Google Search Engine|
-|&nbsp;[Google - (advanced search)](https://Google.com/advanced_search)|Advanced Google Search Engine|
-|&nbsp;[Google - Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)|Google Dorking Syntax Cheat Sheet|
-|&nbsp;[Dork Genius](https://dorkgenius.com)|AI Tool That Creates Google Dork Syntax Based On Text Input|
-|&nbsp;[File Type Extensions List](https://en.wikipedia.org/wiki/List_of_file_formats)|Use To Find Correct File Type Extension For Google Dorking|
-|&nbsp;[Google Hacking Database](https://www.exploit-db.com/google-hacking-database)|Various Hacking/OSINT Google Dorks Syntax|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Google - (advanced search)](https://Google.com/advanced_search)|Advanced Google Search Engine|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Google - Dorks Cheat Sheet](https://usersearch.org/updates/2023/02/05/the-ultimate-google-dorking-cheatsheet-2023/)|Google Dorking Syntax Cheat Sheet|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Dork Genius](https://dorkgenius.com)|AI Tool That Creates Google Dork Syntax Based On Text Input|
+|&nbsp;&nbsp;&nbsp;&nbsp;[File Type Extensions List](https://en.wikipedia.org/wiki/List_of_file_formats)|Use To Find Correct File Type Extension For Google Dorking|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Google Hacking Database](https://www.exploit-db.com/google-hacking-database)|Various Hacking/OSINT Google Dorks Syntax|
 |[Bing](https://bing.com)|Bing Search Engine|
-|&nbsp;[Bing - Dorks Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet/)|Bing Dorking Syntax Cheat Sheet|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Bing - Dorks Cheat Sheet](https://www.sidegains.com/search-engines/bing-search-operators-cheat-sheet/)|Bing Dorking Syntax Cheat Sheet|
 |[Yandex](https://yandex.com)|Bing Search Engine|
 |[DuckDuckGo](https://duckduckgo.com)|DuckDuckGo Search Engine|
 |[Qwant](https://qwant.com)|Qwant Search Engine|
 |[Yahoo](https://yahoo.com)|Yahoo Search Engine|
-|&nbsp;[Yahoo - (advanced search)](https://search.yahoo.com/web/advanced)|Yahoo Advanced Search Engine|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Yahoo - (advanced search)](https://search.yahoo.com/web/advanced)|Yahoo Advanced Search Engine|
 |[Brave](https://search.brave.com)|Brave Search Engine|
 |[Wayback Machine](https://archive.org)|Search Archived Webpages|
 |[Master Dork List](https://github.com/cipher387/Dorks-collections-list)|Master List For Dorking Syntax Accross Various Search Engines|
@@ -280,8 +280,8 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |Name|Description|
 |----|-----------|
 |[Google Maps](https://maps.google.com)|Maps Service|
-|&nbsp;[Instant Street View](https://instantstreetview.com)|Snap To Google Street View|
-|&nbsp;[Google Earth](https://earth.google.com/)|Maps Service|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Instant Street View](https://instantstreetview.com)|Snap To Google Street View|
+|&nbsp;&nbsp;&nbsp;&nbsp;[Google Earth](https://earth.google.com/)|Maps Service|
 |[Bing Maps](https://www.bing.com/maps)|Maps Service|
 |[Yandex Maps](https://yandex.com/maps/)|Maps Service|
 |[Map Quest](https://www.mapquest.com)|Maps Service|
@@ -309,6 +309,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 |[Alamy](https://www.alamy.com/)|Image Search|
 |[Tineye](https://tineye.com)|Image Search|
 |[Face Comparison](https://facecomparison.toolpie.com/)|Compare Two Images To See If They Are The Same Person|
+|[Face Shape](https://www.faceshape.com/face-compare)|Compare Two Images To See If They Are The Same Person|
 |[Facecheck](https://facecheck.id)|Facial Recognition|
 |[Pimeyes](https://pimeyes.com)|Facial Recognition|
 |[Search4Faces](https://www.search4faces.com/en/)|Facial Recognition|
