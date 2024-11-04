@@ -2,7 +2,9 @@
   
 # The Kitchen Sink
 ![finger](https://github.com/user-attachments/assets/a8e77d5b-a889-4fc7-a475-6938b88102f8)
-  
+
+</div>
+
 ## Welcome to The Kitchen Sink!
 Here you will find toolkits, learning, and practice resources for Open-Source Intelligence investigations. These resources have been gathered from all corners of the internet. There are a ton of resources at your disposal **INCLUDING THE KITCHEN SINK**. The Kitchen Sink is constantly being updated and refined with new tools, information, and resources.
 
@@ -24,4 +26,3 @@ In addition to the learning resources found in The Library I have [created a wik
 Once you've started researching and developing your OSINT skillset you'll want to refine it. [The Training Arena](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md) was created with this in mind. Here you'll find a list of resources and challenges for you to practice your OSINT skillset, give it a look!
 
 Thanks for checking out The Kitchen Sink, stay a while!
-</div>
