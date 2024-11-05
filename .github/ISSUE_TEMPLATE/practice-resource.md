@@ -1,6 +1,6 @@
 ---
 name: Practice Resource
-about: Submit a practice resoruce to be added to The Kitchen Sink.
+about: Submit a practice resource to be added to The Kitchen Sink.
 title: Practice Resource
 labels: practice resource
 assignees: OSINTI4L
