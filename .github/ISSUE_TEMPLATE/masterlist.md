@@ -1,6 +1,6 @@
 ---
 name: Masterlist
-about: Submit a master list to be added to The Kitchen Sink.
+about: Submit a masterlist to be added to The Kitchen Sink.
 title: Masterlist
 labels: masterlist
 assignees: OSINTI4L
