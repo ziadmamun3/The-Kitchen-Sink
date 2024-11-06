@@ -8,7 +8,7 @@ Class is in session! Here you will find resources to learn about the tools and t
 
 |Name|Description|
 |----|-----------|
-|[Intel Techniques - Resources for Uncovering Online Information - 10th Edition](https://inteltechniques.com/book1.html)|**THE** Manual Of OSINT Invetigatory Techniques
+|[Intel Techniques - Resources for Uncovering Online Information - 10th Edition](https://inteltechniques.com/book1.html)|**THE** Manual For OSINT Invetigative Techniques
 |[Intel Techniques - OSINT Techniques Leaks, Breaches, & Logs](https://inteltechniques.com/book1a.html)|OSINT Manual On How To Find And Acquire Leaked And Breached Information
 |[Intel Techniques - OSINT Techniques The Ultimate Virtual Machine](https://inteltechniques.com/book1b.html)|OSINT Manual On How To Setup Virtual Machines For OSINT Investigations
 |[TheCyberMentor](https://www.youtube.com/watch?v=qwA6MmbeGNo)|TCM OSINT in 5 Hours (Youtube)
