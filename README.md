@@ -8,7 +8,7 @@ Here you will find toolkits, learning, and practice resources for Open-Source In
 
 If you would like to contribute a resource to The Kitchen Sink or report that a resource is no longer working, please submit your request(s) in the [issues](https://github.com/OSINTI4L/The-Kitchen-Sink/issues) section.
 
-## [OSINTials](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/OSINTials.md) | [Masterlists](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Masterlists.md) | [Learn](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md) | [Practice](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md) | [Wiki](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki) | [Bookmarks](https://github.com/OSINTI4L/The-Kitchen-Sink/tree/main/Bookmarks)
+## [OSINTials](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/OSINTials.md) | [Bookmarks](https://github.com/OSINTI4L/The-Kitchen-Sink/tree/main/Bookmarks) | [Masterlists](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Masterlists.md) | [Learn](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md) | [Wiki](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki) | [Practice](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md)
 
 </div>
 
