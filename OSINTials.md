@@ -5,7 +5,7 @@
 
 </div>
 
-An OSINT toolkit that prioritizes quality over quantity. The overwhelming majority of tools in this toolkit are free, with a few exceptions. These tools have been collected from various places/toolkits and are pieced together with quality being a top priority. If you're interested, you can find the corresponding bookmarks for this toolkit [here](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Bookmarks/OSINTialBookmarks.html).
+An OSINT toolkit that prioritizes quality over quantity. The overwhelming majority of tools in this toolkit are free, with a few exceptions. These tools have been collected from various places/toolkits and are pieced together with quality being a top priority. If you're interested, you can find the corresponding bookmarks for this toolkit [here](https://github.com/OSINTI4L/The-Kitchen-Sink/tree/main/Bookmarks).
 
 ## Contents
 ### 🧑 [People Search](#people-search)
