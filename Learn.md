@@ -12,7 +12,7 @@ Class is in session! Here you will find resources to learn about the tools and t
 |[Intel Techniques - Resources for Uncovering Online Information - 10th Edition](https://inteltechniques.com/book1.html)|Intel Techniques Manual For OSINT Invetigative Techniques
 |[Intel Techniques - OSINT Techniques Leaks, Breaches, & Logs](https://inteltechniques.com/book1a.html)|OSINT Manual On How To Find And Acquire Leaked And Breached Information
 |[Intel Techniques - OSINT Techniques The Ultimate Virtual Machine](https://inteltechniques.com/book1b.html)|OSINT Manual On How To Setup Virtual Machines For OSINT Investigations
-|[Hackers-Arise (OccupyTheWeb)](https://hackers-arise.net/osint/)|Utilizing OSINT Techniques and Tools
+|[Hackers-Arise (OccupyTheWeb)](https://hackers-arise.net/osint/)|Guides On Using Various OSINT Techniques And Tools
 |[TheCyberMentor](https://www.youtube.com/watch?v=qwA6MmbeGNo)|TCM OSINT in 5 Hours (Youtube)
 |[Garry Rudell](https://www.youtube.com/watch?v=YkUnuouRhuE&list=PLGVRVoFJSLuV24yTzwB1iRLk0D_rULPt_)|Garry Ruddell OSINT Series (Youtube)
 |[David Bombal](https://www.youtube.com/watch?v=ImWJgDQ-_ek&list=PLhfrWIlLOoKPT0y4R_mM4y-2QdfLpAWXl)|David Bombal OSINT Series (Youtube)
