@@ -6,7 +6,7 @@
 ## Welcome to The Kitchen Sink!
 Here you will find toolkits, learning, and practice resources for Open-Source Intelligence investigations. These resources have been gathered from all corners of the internet. There are a ton of resources at your disposal **INCLUDING THE KITCHEN SINK**. The Kitchen Sink is constantly being updated and refined with new tools, information, and resources.
 
-If you would like to contribute a resource to The Kitchen Sink or report that a resource is no longer working, please submit your request(s) in the [issues](https://github.com/OSINTI4L/The-Kitchen-Sink/issues) section.
+If you would like to contribute a resource to The Kitchen Sink or report that a resource is no longer working, please submit your request(s) in the [issues](https://github.com/OSINTI4L/The-Kitchen-Sink/issues) section or create a pull request.
 
 ## [OSINTials](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/OSINTials.md) | [Bookmarks](https://github.com/OSINTI4L/The-Kitchen-Sink/tree/main/Bookmarks) | [Masterlists](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Masterlists.md) | [Learn](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Learn.md) | [Wiki](https://github.com/OSINTI4L/The-Kitchen-Sink/wiki) | [Practice](https://github.com/OSINTI4L/The-Kitchen-Sink/blob/main/Practice.md)
 
