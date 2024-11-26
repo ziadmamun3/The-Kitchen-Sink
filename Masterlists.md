@@ -40,6 +40,7 @@ A collection of various OSINT masterlists.
 |[Sam](https://start.me/p/ZNLPYO/verification-tools)|General OSINT Resources Toolkit|
 |[JK](https://start.me/p/b5Aow7/asint_collection)|General OSINT Resources Toolkit|
 |[N3m3s1s](https://start.me/p/7kMdYp/karma-toolkit)|General OSINT Resources Toolkit|
+|[0p3nM1nd0SINT](https://start.me/p/NQlBkX/investigation-bookmarks)|General OSINT Resources Toolkit|
 |[Stephen](https://start.me/p/8y52v0/tools-list)|General OSINT Resources Toolkit|
 |[FAROS](https://start.me/p/1kvvxN/faros-osint-resources)|General OSINT Resources Toolkit|
 |[The Cyber Mentor OSINT Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources)|General OSINT Resources Toolkit|
