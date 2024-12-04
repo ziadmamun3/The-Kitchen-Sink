@@ -338,6 +338,7 @@ An OSINT toolkit that prioritizes quality over quantity. The overwhelming majori
 ## Credential Breaches
 |Name|Description|
 |----|-----------|
+|[Pentester](https://pentester.com)|Credential Breach Lookup|
 |[Breach Directory](https://breachdirectory.org)|Credential Breach Lookup|
 |[Dehashed](https://dehashed.com)|Credential Breach Lookup|
 |[BreachBase](https://breachbase.com)|Credential Breach Lookup|
