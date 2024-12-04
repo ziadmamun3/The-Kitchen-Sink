@@ -27,6 +27,7 @@ A collection of various OSINT masterlists.
 |[NCSO](https://start.me/p/X2wwpk/14-dark-web-breach-data)|DarkWeb OSINT Resources|
 |[Zook](https://start.me/p/8ykwnj/mappy)|OSINT Mapping Resources|
 |[awesome_osint_blockchain_analysis](https://github.com/aaarghhh/awesome_osint_blockchain_analysis)|Blockchain Analysis OSINT Toolkit|
+|[Rae Baker](https://start.me/p/7kYgk2/rae-baker-deep-dive-osint)|Rae Baker Toolkit|
 |[Intel Techniques](https://inteltechniques.com/tools/index.html)|Michael Bazzell Toolkit|
 |[Darkweb Informer](https://darkwebinformer.com/tag/osint/)|General OSINT Resources Toolkit|
 |[Osint](https://start.me/p/rxDad8/global)|General OSINT Resources Toolkit|
