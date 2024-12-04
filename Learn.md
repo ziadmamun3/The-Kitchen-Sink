@@ -31,6 +31,7 @@ Class is in session! Here you will find resources to learn about the tools and t
 |[Arden22](https://arden22.substack.com/p/pompompurin-and-breachforums)|OSINT Walkthrough Of How PomPomPurin Of BreachForums Was Captured By Law Enforcement
 |[neospl0it](https://neospl0it.github.io/posts/osint/)|ART OF OSINT : Whispers of the Web
 |[Micah Webbreacher Hoffman](https://webbreacher.com/)|Personal Blog
+|[Rae Baker](https://www.raebaker.net/blog)|OSINT Tutorials Blog
 |[cipher287](https://github.com/cipher387/python-for-OSINT-21-days/tree/main)|Python For OSINT 21 Days
 |[cipher287](https://github.com/cipher387/linux-for-OSINT-21-day)|Linux For OSINT 21 Days
 |[Black Hills Infosec](https://www.blackhillsinfosec.com/webcast-free-tools-how-to-use-developer-tools-and-javascript-in-webapp-pentests/)|How To Use Developer Tools And Javascript In Webapp Pentest
